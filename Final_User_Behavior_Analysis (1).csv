@@ -1,0 +1,701 @@
+User_ID,Device_Model,Operating_System,App_Usage_Time,Screen_On_Time,Battery_Drain,Number_of_Apps_Installed,Data_Usage,Age,Gender,User_Behavior_Class,Battery_Intensity,User_Status,App_Distraction_Index,Battery_Stress_Score,Generation,Usage_Efficiency,Digital_Burnout_Score,User_Persona,Battery_Efficiency_Level,Extreme_Usage_Flag,Risk_Score,Addiction_Risk_Level
+1,Google Pixel 5,Android,393,6.4,1872,67,1122,40,Male,4,292.5,Heavy,5.87,0.5993589743589743,Millennials,1.0234375,4.29,Male - Millennials,High Drain,Normal,55.11653984781738,Medium Risk
+2,OnePlus 9,Android,268,4.7,1331,42,944,47,Female,3,283.19,Regular,6.38,0.7092411720510894,Gen X / Boomers,0.950354609929078,1.97,Female - Gen X / Boomers,Low Drain,Normal,39.7355493258577,Low Risk
+3,Xiaomi Mi 11,Android,154,4.0,761,32,322,42,Male,2,190.25,Casual,4.81,0.4231274638633377,Gen X / Boomers,0.6416666666666667,1.28,Male - Gen X / Boomers,Low Drain,Normal,26.89894540114804,Low Risk
+4,Google Pixel 5,Android,239,4.8,1676,56,871,20,Male,3,349.17,Regular,4.27,0.5196897374701671,Gen Z,0.8298611111111112,2.69,Male - Gen Z,High Drain,Normal,43.43425443865972,Medium Risk
+5,iPhone 12,iOS,187,4.3,1367,58,988,31,Female,3,317.91,Regular,3.22,0.7227505486466715,Millennials,0.7248062015503877,2.49,Female - Millennials,Low Drain,Normal,43.77933520224269,Medium Risk
+6,Google Pixel 5,Android,99,2.0,940,35,564,31,Male,2,470.0,Casual,2.83,0.6,Millennials,0.825,0.7,Male - Millennials,Low Drain,Normal,24.048858630356428,Low Risk
+7,Samsung Galaxy S21,Android,350,7.3,1802,66,1054,21,Female,4,246.85,Heavy,5.3,0.5849056603773585,Gen Z,0.7990867579908676,4.82,Female - Gen Z,High Drain,Normal,56.996529168335336,Medium Risk
+8,OnePlus 9,Android,543,11.4,2956,82,1702,31,Male,5,259.3,Addicted,6.62,0.5757780784844384,Millennials,0.793859649122807,9.35,Male - Millennials,High Drain,Normal,83.29702309437992,High Risk
+9,Samsung Galaxy S21,Android,340,7.7,2138,75,1053,42,Female,4,277.66,Heavy,4.53,0.49251637043966323,Gen X / Boomers,0.735930735930736,5.78,Female - Gen X / Boomers,High Drain,Normal,61.045120811640636,Medium Risk
+10,iPhone 12,iOS,424,6.6,1957,75,1301,42,Male,4,296.52,Heavy,5.65,0.6647930505876342,Gen X / Boomers,1.0707070707070707,4.95,Male - Gen X / Boomers,High Drain,Normal,60.35802963556267,Medium Risk
+11,Google Pixel 5,Android,53,1.4,435,17,162,34,Female,1,310.71,Basic,3.12,0.3724137931034483,Millennials,0.6309523809523809,0.24,Female - Millennials,Low Drain,Normal,11.764517420905086,Low Risk
+12,OnePlus 9,Android,215,5.5,1690,47,641,24,Male,3,307.27,Regular,4.57,0.3792899408284024,Gen Z,0.6515151515151515,2.58,Male - Gen Z,High Drain,Normal,40.27699906554532,Medium Risk
+13,OnePlus 9,Android,462,6.2,2303,65,1099,57,Female,4,371.45,Heavy,7.11,0.47720364741641336,Gen X / Boomers,1.2419354838709677,4.03,Female - Gen X / Boomers,High Drain,Normal,53.56748097717261,Medium Risk
+14,Xiaomi Mi 11,Android,215,4.9,1662,43,857,43,Male,3,339.18,Regular,5.0,0.5156438026474127,Gen X / Boomers,0.7312925170068026,2.11,Male - Gen X / Boomers,High Drain,Normal,39.65999199038847,Low Risk
+15,iPhone 12,iOS,189,5.4,1754,53,779,49,Female,3,324.81,Regular,3.57,0.44412770809578106,Gen X / Boomers,0.5833333333333333,2.86,Female - Gen X / Boomers,High Drain,Normal,43.41983713789881,Medium Risk
+16,Google Pixel 5,Android,503,10.4,2571,84,2025,39,Female,5,247.21,Addicted,5.99,0.7876312718786465,Millennials,0.8060897435897435,8.74,Female - Millennials,High Drain,Normal,84.45040715525298,High Risk
+17,OnePlus 9,Android,132,3.6,628,32,344,47,Female,2,174.44,Casual,4.12,0.5477707006369427,Gen X / Boomers,0.6111111111111112,1.15,Female - Gen X / Boomers,Low Drain,Normal,25.829929248431448,Low Risk
+18,iPhone 12,iOS,299,5.8,1431,41,985,44,Female,3,246.72,Regular,7.29,0.6883298392732355,Gen X / Boomers,0.8591954022988506,2.38,Female - Gen X / Boomers,Low Drain,Normal,43.59177679882526,Medium Risk
+19,Google Pixel 5,Android,81,1.4,558,16,297,26,Female,1,398.57,Basic,5.06,0.532258064516129,Millennials,0.9642857142857144,0.22,Female - Millennials,Low Drain,Normal,13.083433453477504,Low Risk
+20,iPhone 12,iOS,577,8.5,2774,89,2192,29,Female,5,326.35,Addicted,6.48,0.7901946647440519,Millennials,1.1313725490196078,7.56,Female - Millennials,High Drain,Normal,81.63863302629822,High Risk
+21,Samsung Galaxy S21,Android,93,2.6,681,37,302,45,Female,2,261.92,Casual,2.51,0.4434654919236417,Gen X / Boomers,0.5961538461538461,0.96,Female - Gen X / Boomers,Low Drain,Normal,23.507141903617676,Low Risk
+22,OnePlus 9,Android,576,11.6,2803,82,1553,43,Female,5,241.64,Addicted,7.02,0.5540492329646807,Gen X / Boomers,0.8275862068965517,9.51,Female - Gen X / Boomers,High Drain,Extreme,82.1735415832332,High Risk
+23,Samsung Galaxy S21,Android,423,6.5,2094,65,1372,23,Female,4,322.15,Heavy,6.51,0.6552053486150907,Gen Z,1.0846153846153845,4.22,Female - Gen Z,High Drain,Normal,57.84741690028033,Medium Risk
+24,Google Pixel 5,Android,292,5.6,1401,46,949,37,Female,3,250.18,Regular,6.35,0.6773733047822984,Millennials,0.8690476190476191,2.58,Female - Millennials,Low Drain,Normal,44.00774262448271,Medium Risk
+25,OnePlus 9,Android,216,4.0,1711,59,748,58,Male,3,427.75,Regular,3.66,0.43717124488603154,Gen X / Boomers,0.9,2.36,Male - Gen X / Boomers,High Drain,Normal,40.198905353090375,Medium Risk
+26,Samsung Galaxy S21,Android,91,3.4,1073,38,451,52,Male,2,315.59,Casual,2.39,0.42031686859273065,Gen X / Boomers,0.446078431372549,1.29,Male - Gen X / Boomers,Low Drain,Normal,28.26698705112802,Low Risk
+27,iPhone 12,iOS,444,7.6,2372,77,1002,29,Male,4,312.11,Heavy,5.77,0.42242833052276557,Millennials,0.9736842105263159,5.85,Male - Millennials,High Drain,Normal,60.70511280202909,Medium Risk
+28,Google Pixel 5,Android,512,10.5,2409,89,1599,33,Male,5,229.43,Addicted,5.75,0.663760896637609,Millennials,0.8126984126984127,9.35,Male - Millennials,High Drain,Normal,81.18075023361367,High Risk
+29,OnePlus 9,Android,452,6.8,2387,77,1456,55,Female,4,351.03,Heavy,5.87,0.6099706744868035,Gen X / Boomers,1.107843137254902,5.24,Female - Gen X / Boomers,High Drain,Normal,63.49299158990789,Medium Risk
+30,Samsung Galaxy S21,Android,412,6.2,1899,78,1384,19,Female,4,306.29,Heavy,5.28,0.7288046340179042,Gen Z,1.10752688172043,4.84,Female - Gen Z,High Drain,Normal,60.930983847283414,Medium Risk
+31,Xiaomi Mi 11,Android,260,6.0,1361,44,889,37,Female,3,226.83,Regular,5.91,0.6531961792799412,Millennials,0.7222222222222222,2.64,Female - Millennials,Low Drain,Normal,44.014150313709784,Medium Risk
+32,Xiaomi Mi 11,Android,197,4.6,1660,59,975,25,Male,3,360.87,Regular,3.34,0.5873493975903614,Millennials,0.713768115942029,2.71,Male - Millennials,High Drain,Normal,44.9261780803631,Medium Risk
+33,Google Pixel 5,Android,278,4.7,1484,55,917,21,Male,3,315.74,Regular,5.05,0.6179245283018868,Gen Z,0.9858156028368795,2.58,Male - Gen Z,Low Drain,Normal,43.35055399813109,Medium Risk
+34,Google Pixel 5,Android,46,2.0,457,14,105,58,Male,1,228.5,Basic,3.29,0.22975929978118162,Gen X / Boomers,0.38333333333333336,0.28,Male - Gen X / Boomers,Low Drain,Normal,12.170604725670804,Low Risk
+35,Xiaomi Mi 11,Android,593,10.2,2499,81,1616,38,Female,5,245.0,Addicted,7.32,0.6466586634653861,Millennials,0.9689542483660131,8.26,Female - Millennials,High Drain,Normal,77.96075290348418,High Risk
+36,Samsung Galaxy S21,Android,32,1.2,580,19,153,20,Female,1,483.33,Basic,1.68,0.2637931034482759,Gen Z,0.4444444444444445,0.23,Female - Gen Z,Low Drain,Normal,11.595781604592176,Low Risk
+37,iPhone 12,iOS,122,3.3,755,30,573,26,Male,2,228.79,Casual,4.07,0.7589403973509934,Millennials,0.6161616161616161,0.99,Male - Millennials,Low Drain,Normal,26.975170204245096,Low Risk
+38,Samsung Galaxy S21,Android,522,11.2,2808,93,2328,24,Male,5,250.71,Addicted,5.61,0.8290598290598291,Gen Z,0.7767857142857143,10.42,Male - Gen Z,High Drain,Normal,93.48471499132292,High Risk
+39,OnePlus 9,Android,473,6.4,2312,74,1400,40,Male,4,361.25,Heavy,6.39,0.6055363321799307,Millennials,1.2317708333333333,4.74,Male - Millennials,High Drain,Normal,60.57775997864104,Medium Risk
+40,Samsung Galaxy S21,Android,398,6.2,1851,77,1180,23,Male,4,298.55,Heavy,5.17,0.637493246893571,Gen Z,1.0698924731182795,4.77,Male - Gen Z,High Drain,Normal,58.177012414897874,Medium Risk
+41,Xiaomi Mi 11,Android,240,4.7,1464,52,708,56,Female,3,311.49,Regular,4.62,0.48360655737704916,Gen X / Boomers,0.851063829787234,2.44,Female - Gen X / Boomers,Low Drain,Normal,39.93044987318115,Low Risk
+42,OnePlus 9,Android,576,10.1,2447,83,2323,33,Male,5,242.28,Addicted,6.94,0.9493257049448304,Millennials,0.9504950495049505,8.38,Male - Millennials,High Drain,Normal,86.72767320784942,High Risk
+43,Samsung Galaxy S21,Android,120,2.1,720,39,392,43,Male,2,342.86,Casual,3.08,0.5444444444444444,Gen X / Boomers,0.9523809523809523,0.82,Male - Gen X / Boomers,Low Drain,Normal,23.527833400080098,Low Risk
+44,Samsung Galaxy S21,Android,152,3.7,993,32,429,18,Male,2,268.38,Casual,4.75,0.43202416918429004,Gen Z,0.6846846846846846,1.18,Male - Gen Z,Low Drain,Normal,27.184488052329463,Low Risk
+45,Xiaomi Mi 11,Android,138,2.4,837,21,572,56,Female,2,348.75,Casual,6.57,0.6833930704898447,Gen X / Boomers,0.9583333333333333,0.5,Female - Gen X / Boomers,Low Drain,Normal,21.235883059671604,Low Risk
+46,Xiaomi Mi 11,Android,502,10.9,2476,96,1935,39,Male,5,227.16,Addicted,5.23,0.781502423263328,Millennials,0.7675840978593272,10.46,Male - Millennials,High Drain,Normal,88.67213990121479,High Risk
+47,OnePlus 9,Android,558,8.4,2447,97,1594,22,Female,5,291.31,Addicted,5.75,0.6514098896608091,Gen Z,1.1071428571428572,8.15,Female - Gen Z,High Drain,Normal,76.54492057135229,High Risk
+48,Samsung Galaxy S21,Android,138,3.6,889,25,323,27,Female,2,246.94,Casual,5.52,0.36332958380202474,Millennials,0.6388888888888888,0.9,Female - Millennials,Low Drain,Normal,23.45641436390335,Low Risk
+49,Google Pixel 5,Android,580,8.2,2623,90,2262,49,Male,5,319.88,Addicted,6.44,0.8623713305375524,Gen X / Boomers,1.1788617886178863,7.38,Male - Gen X / Boomers,High Drain,Normal,81.78267254038178,High Risk
+50,OnePlus 9,Android,589,8.7,2736,82,1997,49,Male,5,314.48,Addicted,7.18,0.7298976608187134,Gen X / Boomers,1.128352490421456,7.13,Male - Gen X / Boomers,High Drain,Normal,77.84127619810438,High Risk
+51,Xiaomi Mi 11,Android,452,7.4,2180,61,1417,54,Female,4,294.59,Heavy,7.41,0.65,Gen X / Boomers,1.018018018018018,4.51,Female - Gen X / Boomers,High Drain,Normal,60.175944466693366,Medium Risk
+52,Xiaomi Mi 11,Android,245,5.9,1243,52,885,29,Male,3,210.68,Regular,4.71,0.7119871279163315,Millennials,0.6920903954802259,3.07,Male - Millennials,Low Drain,Normal,46.05700173541584,Medium Risk
+53,Samsung Galaxy S21,Android,125,2.7,690,28,393,27,Female,2,255.56,Casual,4.46,0.5695652173913044,Millennials,0.7716049382716049,0.76,Female - Millennials,Low Drain,Normal,22.206514484047524,Low Risk
+54,Xiaomi Mi 11,Android,97,2.2,1101,38,375,53,Male,2,500.45,Casual,2.55,0.3405994550408719,Gen X / Boomers,0.7348484848484848,0.84,Male - Gen X / Boomers,Low Drain,Normal,23.353891336270188,Low Risk
+55,Google Pixel 5,Android,516,8.7,2857,83,2189,53,Female,5,328.39,Addicted,6.22,0.7661883094154708,Gen X / Boomers,0.9885057471264368,7.22,Female - Gen X / Boomers,High Drain,Normal,80.45107462288078,High Risk
+56,iPhone 12,iOS,68,1.6,450,14,111,30,Male,1,281.25,Basic,4.86,0.24666666666666667,Millennials,0.7083333333333333,0.22,Male - Millennials,Low Drain,Normal,10.909357896142037,Low Risk
+57,OnePlus 9,Android,64,1.1,572,10,161,42,Female,1,520.0,Basic,6.4,0.28146853146853146,Gen X / Boomers,0.9696969696969696,0.11,Female - Gen X / Boomers,Low Drain,Normal,8.631290882392204,Low Risk
+58,OnePlus 9,Android,539,8.4,2796,89,2415,26,Male,5,332.86,Addicted,6.06,0.8637339055793991,Millennials,1.0694444444444442,7.48,Male - Millennials,High Drain,Normal,83.98451475103458,High Risk
+59,Xiaomi Mi 11,Android,428,7.0,2306,75,1144,22,Male,4,329.43,Heavy,5.71,0.49609713790112747,Gen Z,1.0190476190476192,5.25,Male - Gen Z,High Drain,Normal,59.80509945267655,Medium Risk
+60,iPhone 12,iOS,325,7.1,2269,64,1053,56,Male,4,319.58,Heavy,5.08,0.4640810929925077,Gen X / Boomers,0.7629107981220659,4.54,Male - Gen X / Boomers,High Drain,Normal,55.7117874783073,Medium Risk
+61,Xiaomi Mi 11,Android,522,11.9,2798,85,1663,28,Female,5,235.13,Addicted,6.14,0.5943531093638313,Millennials,0.7310924369747899,10.12,Female - Millennials,High Drain,Extreme,85.40421839540784,High Risk
+62,Xiaomi Mi 11,Android,309,7.5,2292,77,1253,57,Female,4,305.6,Heavy,4.01,0.5466841186736475,Gen X / Boomers,0.6866666666666668,5.78,Female - Gen X / Boomers,High Drain,Normal,63.38739821118675,Medium Risk
+63,Xiaomi Mi 11,Android,79,1.9,493,14,128,55,Male,1,259.47,Basic,5.64,0.25963488843813387,Gen X / Boomers,0.6929824561403509,0.27,Male - Gen X / Boomers,Low Drain,Normal,12.113602990254972,Low Risk
+64,Xiaomi Mi 11,Android,545,11.5,2911,87,1717,21,Female,5,253.13,Addicted,6.26,0.5898316729646169,Gen Z,0.7898550724637682,10.01,Female - Gen Z,High Drain,Extreme,85.3257242023762,High Risk
+65,Samsung Galaxy S21,Android,459,7.0,1982,67,1091,43,Male,4,283.14,Heavy,6.85,0.5504540867810293,Gen X / Boomers,1.092857142857143,4.69,Male - Gen X / Boomers,High Drain,Normal,56.744092911493794,Medium Risk
+66,iPhone 12,iOS,225,4.0,1420,48,917,56,Male,3,355.0,Regular,4.69,0.645774647887324,Gen X / Boomers,0.9375,1.92,Male - Gen X / Boomers,Low Drain,Normal,38.89600854358564,Low Risk
+67,iPhone 12,iOS,257,4.5,1705,57,912,55,Male,3,378.89,Regular,4.51,0.5348973607038123,Gen X / Boomers,0.9518518518518518,2.56,Male - Gen X / Boomers,High Drain,Normal,43.22987585102123,Medium Risk
+68,Xiaomi Mi 11,Android,134,4.0,773,35,449,28,Female,2,193.25,Casual,3.83,0.5808538163001293,Millennials,0.5583333333333333,1.4,Female - Millennials,Low Drain,Normal,29.333867307435586,Low Risk
+69,iPhone 12,iOS,516,10.2,2932,98,1547,31,Male,5,287.45,Addicted,5.27,0.5276261937244202,Millennials,0.8431372549019608,10.0,Male - Millennials,High Drain,Normal,82.28327326124683,High Risk
+70,Google Pixel 5,Android,82,1.7,558,16,284,29,Female,1,328.24,Basic,5.12,0.5089605734767025,Millennials,0.803921568627451,0.27,Female - Millennials,Low Drain,Normal,13.927246028567613,Low Risk
+71,Samsung Galaxy S21,Android,452,7.2,1808,64,1090,45,Female,4,251.11,Heavy,7.06,0.6028761061946902,Gen X / Boomers,1.0462962962962963,4.61,Female - Gen X / Boomers,High Drain,Normal,56.48965425176878,Medium Risk
+72,iPhone 12,iOS,521,9.0,2902,97,1701,37,Male,5,322.44,Addicted,5.37,0.5861474844934528,Millennials,0.9648148148148148,8.73,Male - Millennials,High Drain,Normal,79.83046322253371,High Risk
+73,Google Pixel 5,Android,457,6.3,2347,66,1082,22,Male,4,372.54,Heavy,6.92,0.4610140605027695,Gen Z,1.208994708994709,4.16,Male - Gen Z,High Drain,Normal,53.999599519423306,Medium Risk
+74,Xiaomi Mi 11,Android,31,1.1,585,11,208,50,Female,1,531.82,Basic,2.82,0.35555555555555557,Gen X / Boomers,0.4696969696969697,0.12,Female - Gen X / Boomers,Low Drain,Normal,9.498998798558269,Low Risk
+75,iPhone 12,iOS,47,2.0,476,14,125,39,Male,1,238.0,Basic,3.36,0.26260504201680673,Millennials,0.39166666666666666,0.28,Male - Millennials,Low Drain,Normal,12.410893071686022,Low Risk
+76,Xiaomi Mi 11,Android,229,5.7,1305,43,985,23,Female,3,228.95,Regular,5.33,0.7547892720306514,Gen Z,0.6695906432748538,2.45,Female - Gen Z,Low Drain,Normal,43.86450407155253,Medium Risk
+77,Xiaomi Mi 11,Android,34,2.0,558,14,122,54,Female,1,279.0,Basic,2.43,0.21863799283154123,Gen X / Boomers,0.2833333333333333,0.28,Female - Gen X / Boomers,Low Drain,Normal,12.37484981978374,Low Risk
+78,Google Pixel 5,Android,173,2.5,678,29,301,30,Female,2,271.2,Casual,5.97,0.443952802359882,Millennials,1.1533333333333333,0.72,Female - Millennials,Low Drain,Normal,20.737551728741156,Low Risk
+79,Samsung Galaxy S21,Android,78,1.8,333,17,138,51,Female,1,185.0,Basic,4.59,0.4144144144144144,Gen X / Boomers,0.7222222222222222,0.31,Female - Gen X / Boomers,Low Drain,Normal,12.809504739020158,Low Risk
+80,Google Pixel 5,Android,230,5.7,1254,52,989,34,Female,3,220.0,Regular,4.42,0.7886762360446571,Millennials,0.672514619883041,2.96,Female - Millennials,Low Drain,Normal,46.639834468028305,Medium Risk
+81,OnePlus 9,Android,565,10.6,2475,99,1603,51,Female,5,233.49,Addicted,5.71,0.6476767676767676,Gen X / Boomers,0.8883647798742138,10.49,Female - Gen X / Boomers,High Drain,Normal,84.59244426645307,High Risk
+82,iPhone 12,iOS,172,2.8,1035,22,549,41,Male,2,369.64,Casual,7.82,0.5304347826086957,Gen X / Boomers,1.023809523809524,0.62,Male - Gen X / Boomers,Low Drain,Normal,22.59591509811774,Low Risk
+83,Xiaomi Mi 11,Android,330,7.2,2363,77,1133,21,Female,4,328.19,Heavy,4.29,0.47947524333474395,Gen Z,0.7638888888888888,5.54,Female - Gen Z,High Drain,Normal,60.945668135095445,Medium Risk
+84,Xiaomi Mi 11,Android,39,1.8,368,11,105,19,Male,1,204.44,Basic,3.55,0.28532608695652173,Gen Z,0.3611111111111111,0.2,Male - Gen Z,Low Drain,Normal,10.594847149913228,Low Risk
+85,Google Pixel 5,Android,223,4.5,1311,56,695,33,Female,3,291.33,Regular,3.98,0.5301296720061022,Millennials,0.825925925925926,2.52,Female - Millennials,Low Drain,Normal,40.319716993725805,Medium Risk
+86,Google Pixel 5,Android,404,7.4,2081,63,1352,44,Male,4,281.22,Heavy,6.41,0.6496876501681884,Gen X / Boomers,0.9099099099099098,4.66,Male - Gen X / Boomers,High Drain,Normal,60.00106794820451,Medium Risk
+87,Samsung Galaxy S21,Android,151,2.4,1003,25,392,39,Male,2,417.92,Casual,6.04,0.39082751744765704,Millennials,1.0486111111111112,0.6,Male - Millennials,Low Drain,Normal,20.285409157655856,Low Risk
+88,Samsung Galaxy S21,Android,34,1.5,345,11,276,44,Male,1,230.0,Basic,3.09,0.8,Gen X / Boomers,0.37777777777777777,0.16,Male - Gen X / Boomers,Low Drain,Normal,11.649312508343346,Low Risk
+89,Xiaomi Mi 11,Android,137,3.3,839,31,348,34,Female,2,254.24,Casual,4.42,0.41477949940405245,Millennials,0.6919191919191919,1.02,Female - Millennials,Low Drain,Normal,24.57495661460419,Low Risk
+90,Samsung Galaxy S21,Android,301,6.2,2053,75,1303,45,Male,4,331.13,Heavy,4.01,0.6346809547004384,Gen X / Boomers,0.8091397849462365,4.65,Male - Gen X / Boomers,High Drain,Normal,59.04872513683086,Medium Risk
+91,Google Pixel 5,Android,116,2.1,912,39,307,40,Female,2,434.29,Casual,2.97,0.3366228070175439,Millennials,0.9206349206349206,0.82,Female - Millennials,Low Drain,Normal,22.506607929515418,Low Risk
+92,Google Pixel 5,Android,291,4.1,1474,46,827,32,Female,3,359.51,Regular,6.33,0.5610583446404342,Millennials,1.1829268292682926,1.89,Female - Millennials,Low Drain,Normal,37.541983713789875,Low Risk
+93,iPhone 12,iOS,84,1.4,501,16,284,56,Female,1,357.86,Basic,5.25,0.5668662674650699,Gen X / Boomers,1.0,0.22,Female - Gen X / Boomers,Low Drain,Normal,12.927246028567613,Low Risk
+94,iPhone 12,iOS,134,2.5,1125,24,367,35,Male,2,450.0,Casual,5.58,0.32622222222222225,Millennials,0.8933333333333333,0.6,Male - Millennials,Low Drain,Normal,20.015351755439863,Low Risk
+95,Samsung Galaxy S21,Android,411,7.5,2169,72,1083,58,Male,4,289.2,Heavy,5.71,0.49930843706777317,Gen X / Boomers,0.9133333333333333,5.4,Male - Gen X / Boomers,High Drain,Normal,59.82979575490589,Medium Risk
+96,Xiaomi Mi 11,Android,326,7.2,2243,73,1454,50,Male,4,311.53,Heavy,4.47,0.6482389656709764,Gen X / Boomers,0.7546296296296297,5.26,Male - Gen X / Boomers,High Drain,Normal,63.59017487651849,Medium Risk
+97,iPhone 12,iOS,550,9.5,2916,91,1946,20,Male,5,306.95,Addicted,6.04,0.6673525377229081,Gen Z,0.9649122807017543,8.64,Male - Gen Z,High Drain,Normal,82.62248030970498,High Risk
+98,OnePlus 9,Android,516,12.0,2406,82,1968,28,Female,5,200.5,Addicted,6.29,0.8179551122194514,Millennials,0.7166666666666667,9.84,Female - Millennials,High Drain,Extreme,88.49285809638232,High Risk
+99,Google Pixel 5,Android,59,1.2,361,18,293,25,Female,1,300.83,Basic,3.28,0.8116343490304709,Millennials,0.8194444444444444,0.22,Female - Millennials,Low Drain,Normal,12.974769723668402,Low Risk
+100,OnePlus 9,Android,225,5.5,1526,44,875,50,Female,3,277.45,Regular,5.11,0.573394495412844,Gen X / Boomers,0.6818181818181818,2.42,Female - Gen X / Boomers,High Drain,Normal,42.17928180483246,Medium Risk
+101,Google Pixel 5,Android,41,1.1,389,15,136,53,Male,1,353.64,Basic,2.73,0.3496143958868895,Gen X / Boomers,0.6212121212121212,0.16,Male - Gen X / Boomers,Low Drain,Normal,9.846081965024698,Low Risk
+102,OnePlus 9,Android,183,4.1,1210,45,738,19,Male,3,295.12,Regular,4.07,0.6099173553719008,Gen Z,0.7439024390243902,1.84,Male - Gen Z,Low Drain,Normal,36.16967027099186,Low Risk
+103,Google Pixel 5,Android,174,2.5,929,37,565,32,Female,2,371.6,Casual,4.7,0.6081808396124866,Millennials,1.16,0.92,Female - Millennials,Low Drain,Normal,26.333600320384463,Low Risk
+104,Xiaomi Mi 11,Android,274,4.2,1781,52,934,28,Male,3,424.05,Regular,5.27,0.5244244806288602,Millennials,1.0873015873015872,2.18,Male - Millennials,High Drain,Normal,40.979041516486454,Medium Risk
+105,Xiaomi Mi 11,Android,166,2.8,1113,28,360,25,Male,2,397.5,Casual,5.93,0.32345013477088946,Millennials,0.9880952380952381,0.78,Male - Millennials,Low Drain,Normal,22.143372046455745,Low Risk
+106,Xiaomi Mi 11,Android,66,1.2,585,12,264,36,Male,1,487.5,Basic,5.5,0.4512820512820513,Millennials,0.9166666666666667,0.14,Male - Millennials,Low Drain,Normal,10.808169803764518,Low Risk
+107,Google Pixel 5,Android,152,2.7,642,38,596,55,Male,2,237.78,Casual,4.0,0.9283489096573209,Gen X / Boomers,0.9382716049382716,1.03,Male - Gen X / Boomers,Low Drain,Normal,27.675744226405016,Low Risk
+108,Google Pixel 5,Android,54,1.4,403,17,278,23,Female,1,287.86,Basic,3.18,0.6898263027295285,Gen Z,0.6428571428571429,0.24,Female - Gen Z,Low Drain,Normal,13.15818982779335,Low Risk
+109,Xiaomi Mi 11,Android,187,5.5,1754,55,711,50,Female,3,318.91,Regular,3.4,0.4053591790193843,Gen X / Boomers,0.5666666666666667,3.02,Female - Gen X / Boomers,High Drain,Normal,43.54225070084101,Medium Risk
+110,OnePlus 9,Android,216,6.0,1641,41,889,39,Female,3,273.5,Regular,5.27,0.5417428397318708,Millennials,0.6,2.46,Female - Millennials,High Drain,Normal,43.10505940461888,Medium Risk
+111,OnePlus 9,Android,95,3.8,718,26,459,41,Female,2,188.95,Casual,3.65,0.6392757660167131,Gen X / Boomers,0.4166666666666667,0.99,Female - Gen X / Boomers,Low Drain,Normal,26.060072086503805,Low Risk
+112,Xiaomi Mi 11,Android,488,8.6,2447,84,2344,19,Male,5,284.53,Addicted,5.81,0.9579076420106253,Gen Z,0.9457364341085271,7.22,Male - Gen Z,High Drain,Normal,82.2830062741957,High Risk
+113,Google Pixel 5,Android,295,5.1,1483,45,748,27,Female,3,290.78,Regular,6.56,0.5043830074173972,Millennials,0.9640522875816995,2.3,Female - Millennials,Low Drain,Normal,39.623147777332804,Low Risk
+114,Samsung Galaxy S21,Android,136,3.2,818,33,404,42,Male,2,255.62,Casual,4.12,0.4938875305623472,Gen X / Boomers,0.7083333333333333,1.06,Male - Gen X / Boomers,Low Drain,Normal,25.520491256174076,Low Risk
+115,Xiaomi Mi 11,Android,471,7.9,2156,76,1324,54,Female,4,272.91,Heavy,6.2,0.614100185528757,Gen X / Boomers,0.9936708860759492,6.0,Female - Gen X / Boomers,High Drain,Normal,65.2707248698438,Medium Risk
+116,iPhone 12,iOS,121,3.2,651,34,596,39,Male,2,203.44,Casual,3.56,0.9155145929339478,Millennials,0.6302083333333333,1.09,Male - Millennials,Low Drain,Normal,28.130289680950476,Low Risk
+117,iPhone 12,iOS,75,1.2,409,13,281,18,Male,1,340.83,Basic,5.77,0.687041564792176,Gen Z,1.0416666666666667,0.16,Male - Gen Z,Low Drain,Normal,11.315445200907757,Low Risk
+118,iPhone 12,iOS,220,5.2,1631,49,909,27,Female,3,313.65,Regular,4.49,0.5573267933782955,Millennials,0.7051282051282051,2.55,Female - Millennials,High Drain,Normal,43.102923508209855,Medium Risk
+119,Samsung Galaxy S21,Android,82,1.6,590,13,124,28,Female,1,368.75,Basic,6.31,0.21016949152542372,Millennials,0.8541666666666666,0.21,Female - Millennials,Low Drain,Normal,10.762515018021626,Low Risk
+120,Google Pixel 5,Android,97,2.7,1018,37,428,41,Male,2,377.04,Casual,2.62,0.4204322200392927,Gen X / Boomers,0.5987654320987654,1.0,Male - Gen X / Boomers,Low Drain,Normal,25.35429181684688,Low Risk
+121,Samsung Galaxy S21,Android,388,6.6,2085,71,1150,45,Female,4,315.91,Heavy,5.46,0.5515587529976019,Gen X / Boomers,0.9797979797979799,4.69,Female - Gen X / Boomers,High Drain,Normal,57.33173141102656,Medium Risk
+122,OnePlus 9,Android,529,8.7,2484,89,2189,39,Female,5,285.52,Addicted,5.94,0.8812399355877617,Millennials,1.0134099616858239,7.74,Female - Millennials,High Drain,Normal,82.26925644106261,High Risk
+123,Google Pixel 5,Android,584,10.0,2541,99,2391,49,Female,5,254.1,Addicted,5.9,0.9409681227863046,Gen X / Boomers,0.9733333333333333,9.9,Female - Gen X / Boomers,High Drain,Normal,92.05980509945267,High Risk
+124,Google Pixel 5,Android,529,8.1,2686,96,1924,35,Male,5,331.6,Addicted,5.51,0.7163067758749069,Millennials,1.0884773662551441,7.78,Male - Millennials,High Drain,Normal,79.20664797757308,High Risk
+125,Google Pixel 5,Android,227,5.1,1702,57,714,21,Male,3,333.73,Regular,3.98,0.4195064629847238,Gen Z,0.7418300653594772,2.91,Male - Gen Z,High Drain,Normal,42.85102122547057,Medium Risk
+126,Samsung Galaxy S21,Android,535,11.8,2858,99,2378,50,Male,5,242.2,Addicted,5.4,0.8320503848845346,Gen X / Boomers,0.7556497175141242,11.68,Male - Gen X / Boomers,High Drain,Extreme,97.90361767454279,High Risk
+127,iPhone 12,iOS,332,7.4,2149,68,1321,20,Female,4,290.41,Heavy,4.88,0.614704513727315,Gen Z,0.7477477477477477,5.03,Female - Gen Z,High Drain,Normal,61.14377252703244,Medium Risk
+128,Google Pixel 5,Android,252,4.2,1439,45,667,50,Female,3,342.62,Regular,5.6,0.46351633078526755,Gen X / Boomers,1.0,1.89,Female - Gen X / Boomers,Low Drain,Normal,35.64997997597116,Low Risk
+129,Xiaomi Mi 11,Android,125,2.5,678,34,465,31,Male,2,271.2,Casual,3.68,0.6858407079646017,Millennials,0.8333333333333334,0.85,Male - Millennials,Low Drain,Normal,24.22306768121746,Low Risk
+130,Xiaomi Mi 11,Android,97,3.3,751,39,412,36,Female,2,227.58,Casual,2.49,0.5486018641810919,Millennials,0.48989898989898994,1.29,Female - Millennials,Low Drain,Normal,27.76812174609531,Low Risk
+131,Google Pixel 5,Android,540,10.8,2923,90,1886,40,Male,5,270.65,Addicted,6.0,0.6452275059869996,Millennials,0.8333333333333333,9.72,Male - Millennials,High Drain,Normal,85.93191830196236,High Risk
+132,Xiaomi Mi 11,Android,320,7.2,2056,69,1226,52,Female,4,285.56,Heavy,4.64,0.5963035019455253,Gen X / Boomers,0.7407407407407407,4.97,Female - Gen X / Boomers,High Drain,Normal,59.63876651982379,Medium Risk
+133,Google Pixel 5,Android,176,3.6,1193,30,458,40,Female,2,331.39,Casual,5.87,0.38390611902766136,Millennials,0.8148148148148148,1.08,Female - Millennials,Low Drain,Normal,26.593512214657594,Low Risk
+134,Samsung Galaxy S21,Android,79,1.0,313,18,139,42,Male,1,313.0,Basic,4.39,0.4440894568690096,Gen X / Boomers,1.3166666666666667,0.18,Male - Gen X / Boomers,Low Drain,Normal,10.457882792684554,Low Risk
+135,Xiaomi Mi 11,Android,83,1.6,303,19,285,51,Male,1,189.38,Basic,4.37,0.9405940594059405,Gen X / Boomers,0.8645833333333333,0.3,Male - Gen X / Boomers,Low Drain,Normal,14.515018021625949,Low Risk
+136,iPhone 12,iOS,555,11.3,2528,90,1856,55,Female,5,223.72,Addicted,6.17,0.7341772151898734,Gen X / Boomers,0.8185840707964601,10.17,Female - Gen X / Boomers,High Drain,Normal,87.23815244960619,High Risk
+137,Samsung Galaxy S21,Android,66,1.7,375,16,216,39,Male,1,220.59,Basic,4.12,0.576,Millennials,0.6470588235294118,0.27,Male - Millennials,Low Drain,Normal,13.11026565211587,Low Risk
+138,Xiaomi Mi 11,Android,237,4.5,1368,42,868,24,Female,3,304.0,Regular,5.64,0.6345029239766082,Gen Z,0.8777777777777778,1.89,Female - Gen Z,Low Drain,Normal,38.1557869443332,Low Risk
+139,Samsung Galaxy S21,Android,497,9.7,2876,94,2076,18,Male,5,296.49,Addicted,5.29,0.721835883171071,Gen Z,0.8539518900343643,9.12,Male - Gen Z,High Drain,Normal,85.76011213456147,High Risk
+140,Google Pixel 5,Android,516,11.1,2429,91,1796,53,Male,5,218.83,Addicted,5.67,0.7393989296006587,Gen X / Boomers,0.7747747747747747,10.1,Male - Gen X / Boomers,High Drain,Normal,86.15365104792417,High Risk
+141,Xiaomi Mi 11,Android,219,5.2,1510,42,655,50,Female,3,290.38,Regular,5.21,0.4337748344370861,Gen X / Boomers,0.7019230769230769,2.18,Female - Gen X / Boomers,Low Drain,Normal,37.93004939260446,Low Risk
+142,Google Pixel 5,Android,448,6.3,2044,71,1337,51,Male,4,324.44,Heavy,6.31,0.6541095890410958,Gen X / Boomers,1.1851851851851853,4.47,Male - Gen X / Boomers,High Drain,Normal,58.57842744626886,Medium Risk
+143,iPhone 12,iOS,156,2.2,896,37,429,57,Female,2,407.27,Casual,4.22,0.47879464285714285,Gen X / Boomers,1.1818181818181817,0.81,Female - Gen X / Boomers,Low Drain,Normal,23.69963956748098,Low Risk
+144,Samsung Galaxy S21,Android,68,1.1,528,12,201,29,Male,1,480.0,Basic,5.67,0.3806818181818182,Millennials,1.0303030303030303,0.13,Male - Millennials,Low Drain,Normal,9.717928180483247,Low Risk
+145,iPhone 12,iOS,524,11.2,2417,90,2069,29,Female,5,215.8,Addicted,5.82,0.8560198593297477,Millennials,0.7797619047619048,10.08,Female - Millennials,High Drain,Normal,89.46389000133493,High Risk
+146,iPhone 12,iOS,188,5.3,1281,45,974,35,Male,3,241.7,Regular,4.18,0.760343481654957,Millennials,0.5911949685534591,2.38,Male - Millennials,Low Drain,Normal,43.00507275397143,Medium Risk
+147,Samsung Galaxy S21,Android,443,7.4,2289,73,1026,33,Male,4,309.32,Heavy,6.07,0.44823066841415465,Millennials,0.9977477477477478,5.4,Male - Millennials,High Drain,Normal,59.11467093845948,Medium Risk
+148,Xiaomi Mi 11,Android,52,1.6,385,19,234,24,Male,1,240.62,Basic,2.74,0.6077922077922078,Gen Z,0.5416666666666666,0.3,Male - Gen Z,Low Drain,Normal,13.902282739287145,Low Risk
+149,OnePlus 9,Android,228,4.2,1677,58,823,56,Male,3,399.29,Regular,3.93,0.4907573047107931,Gen X / Boomers,0.9047619047619047,2.44,Male - Gen X / Boomers,High Drain,Normal,41.46362301428381,Medium Risk
+150,Google Pixel 5,Android,149,3.7,873,34,459,51,Male,2,235.95,Casual,4.38,0.5257731958762887,Gen X / Boomers,0.6711711711711712,1.26,Male - Gen X / Boomers,Low Drain,Normal,28.150981177412895,Low Risk
+151,iPhone 12,iOS,523,9.4,2583,92,1539,21,Male,5,274.79,Addicted,5.68,0.5958188153310104,Gen Z,0.927304964539007,8.65,Male - Gen Z,High Drain,Normal,77.70230943799226,High Risk
+152,Samsung Galaxy S21,Android,42,1.6,315,19,207,52,Female,1,196.88,Basic,2.21,0.6571428571428571,Gen X / Boomers,0.43749999999999994,0.3,Female - Gen X / Boomers,Low Drain,Normal,13.5778934721666,Low Risk
+153,Google Pixel 5,Android,120,2.0,741,38,396,56,Female,2,370.5,Casual,3.16,0.5344129554655871,Gen X / Boomers,1.0,0.76,Female - Gen X / Boomers,Low Drain,Normal,22.939527432919505,Low Risk
+154,OnePlus 9,Android,329,7.5,2277,72,1185,27,Female,4,303.6,Heavy,4.57,0.5204216073781291,Millennials,0.7311111111111112,5.4,Female - Millennials,High Drain,Normal,61.0552663195835,Medium Risk
+155,Xiaomi Mi 11,Android,68,1.5,364,10,102,31,Female,1,242.67,Basic,6.8,0.2802197802197802,Millennials,0.7555555555555555,0.15,Female - Millennials,Low Drain,Normal,9.255773594980642,Low Risk
+156,Xiaomi Mi 11,Android,158,3.4,893,36,493,32,Male,2,262.65,Casual,4.39,0.5520716685330347,Millennials,0.7745098039215687,1.22,Male - Millennials,Low Drain,Normal,28.165531971699373,Low Risk
+157,Xiaomi Mi 11,Android,86,1.7,439,19,136,54,Male,1,258.24,Basic,4.53,0.3097949886104784,Gen X / Boomers,0.8431372549019608,0.32,Male - Gen X / Boomers,Low Drain,Normal,13.058203177145908,Low Risk
+158,Xiaomi Mi 11,Android,339,7.8,2102,71,1062,51,Male,4,269.49,Heavy,4.77,0.50523311132255,Gen X / Boomers,0.7243589743589745,5.54,Male - Gen X / Boomers,High Drain,Normal,60.27446268855961,Medium Risk
+159,Samsung Galaxy S21,Android,304,6.5,2375,79,1493,51,Male,4,365.38,Heavy,3.85,0.6286315789473684,Gen X / Boomers,0.7794871794871795,5.14,Male - Gen X / Boomers,High Drain,Normal,63.54358563609665,Medium Risk
+160,Xiaomi Mi 11,Android,131,2.4,859,26,305,40,Male,2,357.92,Casual,5.04,0.3550640279394645,Millennials,0.9097222222222222,0.62,Male - Millennials,Low Drain,Normal,19.543185155519957,Low Risk
+161,Samsung Galaxy S21,Android,64,1.6,540,19,262,35,Female,1,337.5,Basic,3.37,0.48518518518518516,Millennials,0.6666666666666666,0.3,Female - Millennials,Low Drain,Normal,14.238686423708451,Low Risk
+162,Xiaomi Mi 11,Android,53,1.9,526,15,112,42,Male,1,276.84,Basic,3.53,0.21292775665399238,Gen X / Boomers,0.4649122807017544,0.28,Male - Gen X / Boomers,Low Drain,Normal,12.224402616473101,Low Risk
+163,Google Pixel 5,Android,442,7.7,2067,69,1440,45,Male,4,268.44,Heavy,6.41,0.6966618287373004,Gen X / Boomers,0.9567099567099566,5.31,Male - Gen X / Boomers,High Drain,Normal,63.87651848885329,Medium Risk
+164,iPhone 12,iOS,32,2.0,469,18,139,22,Male,1,234.5,Basic,1.78,0.29637526652452023,Gen Z,0.26666666666666666,0.36,Male - Gen Z,Low Drain,Normal,13.791216126017888,Low Risk
+165,Xiaomi Mi 11,Android,278,4.8,1238,48,851,43,Female,3,257.92,Regular,5.79,0.6873990306946688,Gen X / Boomers,0.9652777777777779,2.3,Female - Gen X / Boomers,Low Drain,Normal,40.76972366840208,Medium Risk
+166,Xiaomi Mi 11,Android,540,8.4,2993,98,1540,49,Female,5,356.31,Addicted,5.51,0.5145339124624123,Gen X / Boomers,1.0714285714285714,8.23,Female - Gen X / Boomers,High Drain,Normal,76.19917234014152,High Risk
+167,Google Pixel 5,Android,595,11.3,2968,88,2366,30,Male,5,262.65,Addicted,6.76,0.7971698113207547,Millennials,0.8775811209439527,9.94,Male - Millennials,High Drain,Normal,92.75944466693366,High Risk
+168,Google Pixel 5,Android,35,1.5,467,10,158,58,Male,1,311.33,Basic,3.5,0.33832976445396146,Gen X / Boomers,0.3888888888888889,0.15,Male - Gen X / Boomers,Low Drain,Normal,9.928580963823254,Low Risk
+169,Google Pixel 5,Android,225,5.4,1370,44,791,55,Female,3,253.7,Regular,5.11,0.5773722627737227,Gen X / Boomers,0.6944444444444444,2.38,Female - Gen X / Boomers,Low Drain,Normal,40.83673741823522,Medium Risk
+170,Google Pixel 5,Android,587,11.8,2431,90,1894,47,Male,5,206.02,Addicted,6.52,0.779103249691485,Gen X / Boomers,0.82909604519774,10.62,Male - Gen X / Boomers,High Drain,Extreme,89.36136697370178,High Risk
+171,Xiaomi Mi 11,Android,92,3.7,1124,27,524,44,Male,2,303.78,Casual,3.41,0.46619217081850534,Gen X / Boomers,0.4144144144144144,1.0,Male - Gen X / Boomers,Low Drain,Normal,26.81070618075023,Low Risk
+172,Google Pixel 5,Android,46,1.1,487,17,208,23,Male,1,442.73,Basic,2.71,0.4271047227926078,Gen Z,0.6969696969696969,0.19,Male - Gen Z,Low Drain,Normal,11.317180616740089,Low Risk
+173,OnePlus 9,Android,153,2.8,935,25,578,37,Female,2,333.93,Casual,6.12,0.6181818181818182,Millennials,0.9107142857142857,0.7,Female - Millennials,Low Drain,Normal,23.853424108930717,Low Risk
+174,iPhone 12,iOS,368,6.6,1817,72,1406,27,Female,4,275.3,Heavy,5.11,0.7738029719317556,Millennials,0.9292929292929294,4.75,Female - Millennials,High Drain,Normal,60.71045254305166,Medium Risk
+175,Xiaomi Mi 11,Android,51,1.6,509,11,113,29,Female,1,318.12,Basic,4.64,0.2220039292730845,Millennials,0.53125,0.18,Female - Millennials,Low Drain,Normal,10.02429582165265,Low Risk
+176,Google Pixel 5,Android,279,5.2,1660,47,629,50,Female,3,319.23,Regular,5.94,0.3789156626506024,Gen X / Boomers,0.8942307692307693,2.44,Female - Gen X / Boomers,High Drain,Normal,39.13282605793619,Low Risk
+177,Xiaomi Mi 11,Android,255,5.4,1738,42,826,21,Male,3,321.85,Regular,6.07,0.475258918296893,Gen Z,0.787037037037037,2.27,Male - Gen Z,High Drain,Normal,40.65118141770124,Medium Risk
+178,Samsung Galaxy S21,Android,193,5.7,1471,51,972,31,Female,3,258.07,Regular,3.78,0.6607749830047587,Millennials,0.564327485380117,2.91,Female - Millennials,Low Drain,Normal,46.13255907088506,Medium Risk
+179,Xiaomi Mi 11,Android,207,5.7,1582,52,692,38,Male,3,277.54,Regular,3.98,0.43742098609355246,Millennials,0.6052631578947368,2.96,Male - Millennials,High Drain,Normal,43.07155252970231,Medium Risk
+180,iPhone 12,iOS,539,11.9,2853,83,2007,55,Male,5,239.75,Addicted,6.49,0.7034700315457413,Gen X / Boomers,0.7549019607843136,9.88,Male - Gen X / Boomers,High Drain,Extreme,88.93111734080898,High Risk
+181,OnePlus 9,Android,151,2.4,1124,38,571,33,Male,2,468.33,Casual,3.97,0.5080071174377224,Millennials,1.0486111111111112,0.91,Male - Millennials,Low Drain,Normal,26.375383793885995,Low Risk
+182,Google Pixel 5,Android,474,6.4,2109,68,1079,24,Male,4,329.53,Heavy,6.97,0.5116168800379327,Gen Z,1.234375,4.35,Male - Gen Z,High Drain,Normal,54.902950206914966,Medium Risk
+183,iPhone 12,iOS,544,9.2,2936,83,2416,47,Female,5,319.13,Addicted,6.55,0.8228882833787466,Gen X / Boomers,0.9855072463768116,7.64,Female - Gen X / Boomers,High Drain,Normal,84.84501401682019,High Risk
+184,iPhone 12,iOS,73,1.2,308,15,275,39,Female,1,256.67,Basic,4.87,0.8928571428571429,Millennials,1.0138888888888888,0.18,Female - Millennials,Low Drain,Normal,11.849419303163796,Low Risk
+185,Xiaomi Mi 11,Android,597,10.4,2984,91,1564,34,Female,5,286.92,Addicted,6.56,0.5241286863270778,Millennials,0.9567307692307692,9.46,Female - Millennials,High Drain,Normal,81.03297290081431,High Risk
+186,Google Pixel 5,Android,498,10.7,2738,94,1995,42,Male,5,255.89,Addicted,5.3,0.7286340394448503,Gen X / Boomers,0.7757009345794393,10.06,Male - Gen X / Boomers,High Drain,Normal,88.12027766653317,High Risk
+187,iPhone 12,iOS,402,7.8,2014,79,1088,34,Female,4,258.21,Heavy,5.09,0.5402184707050646,Millennials,0.858974358974359,6.16,Female - Millennials,High Drain,Normal,63.01107996262182,Medium Risk
+188,OnePlus 9,Android,75,1.1,379,15,185,37,Male,1,344.55,Basic,5.0,0.48812664907651715,Millennials,1.1363636363636362,0.16,Male - Millennials,Low Drain,Normal,10.434788412761982,Low Risk
+189,iPhone 12,iOS,130,2.0,602,21,589,30,Female,2,301.0,Casual,6.19,0.978405315614618,Millennials,1.0833333333333333,0.42,Female - Millennials,Low Drain,Normal,20.106794820451206,Low Risk
+190,Samsung Galaxy S21,Android,42,1.1,402,11,265,32,Female,1,365.45,Basic,3.82,0.6592039800995025,Millennials,0.6363636363636362,0.12,Female - Millennials,Low Drain,Normal,10.183820584701643,Low Risk
+191,iPhone 12,iOS,134,2.2,917,23,423,23,Male,2,416.82,Casual,5.83,0.4612868047982552,Gen Z,1.0151515151515151,0.51,Male - Gen Z,Low Drain,Normal,19.38512882125217,Low Risk
+192,Google Pixel 5,Android,79,1.9,477,13,161,24,Male,1,251.05,Basic,6.08,0.33752620545073375,Gen Z,0.6929824561403509,0.25,Male - Gen Z,Low Drain,Normal,12.20704845814978,Low Risk
+193,iPhone 12,iOS,432,7.2,1822,63,1127,59,Female,4,253.06,Heavy,6.86,0.6185510428100988,Gen X / Boomers,1.0,4.54,Female - Gen X / Boomers,High Drain,Normal,56.63115738886664,Medium Risk
+194,iPhone 12,iOS,262,4.1,1287,52,997,36,Male,3,313.9,Regular,5.04,0.7746697746697747,Millennials,1.065040650406504,2.13,Male - Millennials,Low Drain,Normal,41.402616473101055,Medium Risk
+195,Samsung Galaxy S21,Android,473,6.4,2109,79,1300,23,Female,4,329.53,Heavy,5.99,0.6164058795637744,Gen Z,1.2317708333333333,5.06,Female - Gen Z,High Drain,Normal,60.89146976371646,Medium Risk
+196,Google Pixel 5,Android,202,4.7,1512,49,659,45,Female,3,321.7,Regular,4.12,0.43584656084656087,Gen X / Boomers,0.7163120567375887,2.3,Female - Gen X / Boomers,Low Drain,Normal,38.43265251635296,Low Risk
+197,OnePlus 9,Android,215,4.4,1407,41,991,47,Male,3,319.77,Regular,5.24,0.7043354655294953,Gen X / Boomers,0.8143939393939393,1.8,Male - Gen X / Boomers,Low Drain,Normal,38.99719663596316,Low Risk
+198,OnePlus 9,Android,151,3.7,1116,32,320,41,Female,2,301.62,Casual,4.72,0.2867383512544803,Gen X / Boomers,0.6801801801801801,1.18,Female - Gen X / Boomers,Low Drain,Normal,25.874916566546524,Low Risk
+199,OnePlus 9,Android,80,1.6,549,14,197,19,Male,1,343.12,Basic,5.71,0.3588342440801457,Gen Z,0.8333333333333333,0.22,Male - Gen Z,Low Drain,Normal,11.942597784007475,Low Risk
+200,Xiaomi Mi 11,Android,126,2.8,971,32,431,35,Female,2,346.79,Casual,3.94,0.44387229660144184,Millennials,0.7500000000000001,0.9,Female - Millennials,Low Drain,Normal,24.20851688693098,Low Risk
+201,Samsung Galaxy S21,Android,495,8.9,2920,84,2252,31,Female,5,328.09,Addicted,5.89,0.7712328767123288,Millennials,0.9269662921348314,7.48,Female - Millennials,High Drain,Normal,82.1776798825257,High Risk
+202,iPhone 12,iOS,127,3.7,1153,35,314,37,Female,2,311.62,Casual,3.63,0.2723330442324371,Millennials,0.572072072072072,1.3,Female - Millennials,Low Drain,Normal,26.711920971832864,Low Risk
+203,Xiaomi Mi 11,Android,88,1.3,327,11,262,22,Male,1,251.54,Basic,8.0,0.8012232415902141,Gen Z,1.1282051282051282,0.14,Male - Gen Z,Low Drain,Normal,10.814443999466025,Low Risk
+204,Google Pixel 5,Android,69,1.6,463,16,146,27,Male,1,289.38,Basic,4.31,0.31533477321814257,Millennials,0.7187499999999999,0.26,Male - Millennials,Low Drain,Normal,11.935923107729275,Low Risk
+205,OnePlus 9,Android,100,3.3,961,21,433,25,Male,2,291.21,Casual,4.76,0.4505723204994797,Millennials,0.5050505050505051,0.69,Male - Millennials,Low Drain,Normal,22.565879054865835,Low Risk
+206,Xiaomi Mi 11,Android,301,6.5,2084,71,1421,29,Male,4,320.62,Heavy,4.24,0.6818618042226487,Millennials,0.7717948717948718,4.62,Male - Millennials,High Drain,Normal,60.25430516619944,Medium Risk
+207,Google Pixel 5,Android,78,1.7,455,15,207,37,Female,1,267.65,Basic,5.2,0.45494505494505494,Millennials,0.7647058823529412,0.26,Female - Millennials,Low Drain,Normal,12.699105593378722,Low Risk
+208,Google Pixel 5,Android,163,3.1,620,21,419,23,Male,2,200.0,Casual,7.76,0.6758064516129032,Gen Z,0.8763440860215054,0.65,Male - Gen Z,Low Drain,Normal,21.73101054598852,Low Risk
+209,OnePlus 9,Android,539,9.3,2606,92,1990,41,Male,5,280.22,Addicted,5.86,0.7636224098234843,Gen X / Boomers,0.9659498207885303,8.56,Male - Gen X / Boomers,High Drain,Normal,82.7874783073021,High Risk
+210,Google Pixel 5,Android,278,4.6,1385,47,823,40,Female,3,301.09,Regular,5.91,0.5942238267148015,Millennials,1.0072463768115945,2.16,Female - Millennials,Low Drain,Normal,39.463623014283804,Low Risk
+211,Samsung Galaxy S21,Android,451,6.1,2108,76,1434,25,Female,4,345.57,Heavy,5.93,0.6802656546489564,Millennials,1.23224043715847,4.64,Female - Millennials,High Drain,Normal,60.59231077292752,Medium Risk
+212,Samsung Galaxy S21,Android,481,10.9,2752,86,2017,18,Male,5,252.48,Addicted,5.59,0.732921511627907,Gen Z,0.7354740061162081,9.37,Male - Gen Z,High Drain,Normal,86.62701908957416,High Risk
+213,Samsung Galaxy S21,Android,133,3.4,714,38,445,25,Male,2,210.0,Casual,3.5,0.623249299719888,Millennials,0.6519607843137255,1.29,Male - Millennials,Low Drain,Normal,28.194900547323456,Low Risk
+214,Xiaomi Mi 11,Android,41,1.1,588,10,246,22,Male,1,534.55,Basic,4.1,0.41836734693877553,Gen Z,0.6212121212121212,0.11,Male - Gen Z,Low Drain,Normal,9.652516352956882,Low Risk
+215,iPhone 12,iOS,152,3.3,1175,29,461,42,Female,2,356.06,Casual,5.24,0.3923404255319149,Gen X / Boomers,0.7676767676767677,0.96,Female - Gen X / Boomers,Low Drain,Normal,25.326525163529567,Low Risk
+216,OnePlus 9,Android,553,8.4,2559,89,2471,51,Male,5,304.64,Addicted,6.21,0.9656115670183666,Gen X / Boomers,1.097222222222222,7.48,Male - Gen X / Boomers,High Drain,Normal,84.6573221198772,High Risk
+217,iPhone 12,iOS,402,6.9,2282,78,1397,40,Male,4,330.72,Heavy,5.15,0.612182296231376,Millennials,0.9710144927536232,5.38,Male - Millennials,High Drain,Normal,63.420504605526645,Medium Risk
+218,OnePlus 9,Android,555,9.5,2855,95,1565,24,Male,5,300.53,Addicted,5.84,0.5481611208406305,Gen Z,0.9736842105263158,9.02,Male - Gen Z,High Drain,Normal,79.25710853023628,High Risk
+219,iPhone 12,iOS,499,9.6,2873,81,1805,52,Female,5,299.27,Addicted,6.16,0.6282631395753567,Gen X / Boomers,0.8663194444444444,7.78,Female - Gen X / Boomers,High Drain,Normal,78.231477773328,High Risk
+220,Xiaomi Mi 11,Android,101,3.2,603,28,417,43,Male,2,188.44,Casual,3.61,0.6915422885572139,Gen X / Boomers,0.5260416666666666,0.9,Male - Gen X / Boomers,Low Drain,Normal,24.16152716593245,Low Risk
+221,OnePlus 9,Android,433,6.8,2093,75,1300,32,Male,4,307.79,Heavy,5.77,0.6211180124223602,Millennials,1.0612745098039216,5.1,Male - Millennials,High Drain,Normal,61.012681884928575,Medium Risk
+222,OnePlus 9,Android,133,2.0,1007,31,417,32,Male,2,503.5,Casual,4.29,0.4141012909632572,Millennials,1.1083333333333334,0.62,Male - Millennials,Low Drain,Normal,21.07061807502336,Low Risk
+223,Xiaomi Mi 11,Android,351,6.1,1941,79,1290,21,Female,4,318.2,Heavy,4.44,0.6646058732612056,Gen Z,0.9590163934426229,4.82,Female - Gen Z,High Drain,Normal,59.771325590708855,Medium Risk
+224,Samsung Galaxy S21,Android,532,10.7,2556,83,2148,53,Female,5,238.88,Addicted,6.41,0.8403755868544601,Gen X / Boomers,0.8286604361370717,8.88,Female - Gen X / Boomers,High Drain,Normal,86.62515018021625,High Risk
+225,OnePlus 9,Android,92,2.5,690,31,563,27,Male,2,276.0,Casual,2.97,0.8159420289855073,Millennials,0.6133333333333334,0.78,Male - Millennials,Low Drain,Normal,24.491389667601123,Low Risk
+226,Xiaomi Mi 11,Android,511,10.8,2712,97,2438,59,Female,5,251.11,Addicted,5.27,0.8989675516224189,Gen X / Boomers,0.7885802469135803,10.48,Female - Gen X / Boomers,High Drain,Normal,94.6850887731945,High Risk
+227,Xiaomi Mi 11,Android,384,7.0,2185,72,1376,59,Male,4,312.14,Heavy,5.33,0.6297482837528604,Gen X / Boomers,0.9142857142857144,5.04,Male - Gen X / Boomers,High Drain,Normal,61.68335335736217,Medium Risk
+228,iPhone 12,iOS,193,5.2,1318,49,626,32,Female,3,253.46,Regular,3.94,0.47496206373292865,Millennials,0.6185897435897436,2.55,Female - Millennials,Low Drain,Normal,39.702843412094516,Low Risk
+229,Samsung Galaxy S21,Android,132,3.8,649,25,368,41,Male,2,170.79,Casual,5.28,0.5670261941448382,Gen X / Boomers,0.5789473684210527,0.95,Male - Gen X / Boomers,Low Drain,Normal,24.66372980910426,Low Risk
+230,Samsung Galaxy S21,Android,360,7.3,1946,79,1164,50,Male,4,266.58,Heavy,4.56,0.5981500513874615,Gen X / Boomers,0.8219178082191781,5.77,Male - Gen X / Boomers,High Drain,Normal,62.25750901081298,Medium Risk
+231,iPhone 12,iOS,159,2.3,1083,32,526,38,Male,2,470.87,Casual,4.97,0.4856879039704525,Millennials,1.1521739130434783,0.74,Male - Millennials,Low Drain,Normal,23.683219863836605,Low Risk
+232,iPhone 12,iOS,495,8.9,2855,91,2150,31,Male,5,320.79,Addicted,5.44,0.7530647985989493,Millennials,0.9269662921348314,8.1,Male - Millennials,High Drain,Normal,83.07342143906021,High Risk
+233,Xiaomi Mi 11,Android,537,10.0,2720,83,1763,35,Male,5,272.0,Addicted,6.47,0.6481617647058824,Millennials,0.8949999999999999,8.3,Male - Millennials,High Drain,Normal,79.66626618608998,High Risk
+234,OnePlus 9,Android,129,3.4,1059,27,580,36,Female,2,311.47,Casual,4.78,0.5476864966949953,Millennials,0.6323529411764706,0.92,Female - Millennials,Low Drain,Normal,26.483513549592843,Low Risk
+235,iPhone 12,iOS,132,3.8,636,28,529,53,Male,2,167.37,Casual,4.71,0.8317610062893082,Gen X / Boomers,0.5789473684210527,1.06,Male - Gen X / Boomers,Low Drain,Normal,27.507141903617672,Low Risk
+236,Xiaomi Mi 11,Android,37,1.4,369,18,295,19,Female,1,263.57,Basic,2.06,0.7994579945799458,Gen Z,0.4404761904761905,0.25,Female - Gen Z,Low Drain,Normal,13.665465224936591,Low Risk
+237,Samsung Galaxy S21,Android,524,8.9,2549,88,1730,20,Female,5,286.4,Addicted,5.95,0.6786975284425265,Gen Z,0.9812734082397002,7.83,Female - Gen Z,High Drain,Normal,77.1182752636497,High Risk
+238,OnePlus 9,Android,425,6.9,2142,66,1130,19,Female,4,310.43,Heavy,6.44,0.5275443510737629,Gen Z,1.0265700483091786,4.55,Female - Gen Z,High Drain,Normal,56.57629154985983,Medium Risk
+239,OnePlus 9,Android,64,1.7,585,13,107,53,Male,1,344.12,Basic,4.92,0.1829059829059829,Gen X / Boomers,0.6274509803921569,0.22,Male - Gen X / Boomers,Low Drain,Normal,10.891603257242023,Low Risk
+240,iPhone 12,iOS,573,10.8,2711,96,2118,33,Female,5,251.02,Addicted,5.97,0.7812615271117669,Millennials,0.8842592592592593,10.37,Female - Millennials,High Drain,Normal,90.53744493392071,High Risk
+241,Google Pixel 5,Android,45,1.7,302,16,191,57,Female,1,177.65,Basic,2.81,0.6324503311258278,Gen X / Boomers,0.4411764705882353,0.27,Female - Gen X / Boomers,Low Drain,Normal,12.80990521959685,Low Risk
+242,Xiaomi Mi 11,Android,564,11.7,2764,81,2133,37,Female,5,236.24,Addicted,6.96,0.7717076700434153,Millennials,0.8034188034188035,9.48,Female - Millennials,High Drain,Extreme,89.17220664797757,High Risk
+243,OnePlus 9,Android,162,3.5,761,36,338,51,Male,2,217.43,Casual,4.5,0.44415243101182655,Gen X / Boomers,0.7714285714285715,1.26,Male - Gen X / Boomers,Low Drain,Normal,26.636630623414767,Low Risk
+244,Samsung Galaxy S21,Android,451,6.5,2378,69,1341,44,Male,4,365.85,Heavy,6.54,0.563919259882254,Gen X / Boomers,1.1564102564102563,4.49,Male - Gen X / Boomers,High Drain,Normal,58.687091176077956,Medium Risk
+245,OnePlus 9,Android,30,1.3,479,16,253,35,Male,1,368.46,Basic,1.88,0.5281837160751566,Millennials,0.3846153846153846,0.21,Male - Millennials,Low Drain,Normal,12.221465758910693,Low Risk
+246,Samsung Galaxy S21,Android,202,5.0,1542,45,844,29,Male,3,308.4,Regular,4.49,0.5473411154345007,Millennials,0.6733333333333333,2.25,Male - Millennials,High Drain,Normal,40.44319850487251,Medium Risk
+247,Google Pixel 5,Android,71,1.5,590,17,257,33,Male,1,393.33,Basic,4.18,0.43559322033898307,Millennials,0.7888888888888889,0.26,Male - Millennials,Low Drain,Normal,13.239220397810705,Low Risk
+248,Google Pixel 5,Android,314,6.2,2205,63,1066,19,Male,4,355.65,Heavy,4.98,0.4834467120181406,Gen Z,0.8440860215053764,3.91,Male - Gen Z,High Drain,Normal,52.56494460018689,Medium Risk
+249,Xiaomi Mi 11,Android,168,4.0,866,22,581,50,Female,2,216.5,Casual,7.64,0.6709006928406467,Gen X / Boomers,0.7,0.88,Female - Gen X / Boomers,Low Drain,Normal,26.98037645174209,Low Risk
+250,Google Pixel 5,Android,75,1.9,537,13,230,58,Female,1,282.63,Basic,5.77,0.42830540037243947,Gen X / Boomers,0.6578947368421053,0.25,Female - Gen X / Boomers,Low Drain,Normal,13.036043251902283,Low Risk
+251,OnePlus 9,Android,42,1.4,324,13,272,29,Female,1,231.43,Basic,3.23,0.8395061728395061,Millennials,0.5,0.18,Female - Millennials,Low Drain,Normal,11.873982111867575,Low Risk
+252,OnePlus 9,Android,441,7.9,2332,78,1477,23,Female,4,295.19,Heavy,5.65,0.6333619210977701,Gen Z,0.930379746835443,6.16,Female - Gen Z,High Drain,Normal,67.71499132292084,Medium Risk
+253,Google Pixel 5,Android,523,10.5,2460,99,1787,22,Male,5,234.29,Addicted,5.28,0.7264227642276423,Gen Z,0.8301587301587302,10.4,Male - Gen Z,High Drain,Normal,86.46976371645975,High Risk
+254,Xiaomi Mi 11,Android,100,2.4,982,31,478,48,Female,2,409.17,Casual,3.23,0.48676171079429736,Gen X / Boomers,0.6944444444444445,0.74,Female - Gen X / Boomers,Low Drain,Normal,23.13683086370311,Low Risk
+255,OnePlus 9,Android,52,1.2,398,14,172,24,Female,1,331.67,Basic,3.71,0.4321608040201005,Gen Z,0.7222222222222223,0.17,Female - Gen Z,Low Drain,Normal,10.308904018155118,Low Risk
+256,OnePlus 9,Android,397,7.0,2352,77,1101,46,Female,4,336.0,Heavy,5.16,0.46811224489795916,Gen X / Boomers,0.9452380952380952,5.39,Female - Gen X / Boomers,High Drain,Normal,59.89454011480443,Medium Risk
+257,Xiaomi Mi 11,Android,424,7.7,1863,65,1116,52,Male,4,241.95,Heavy,6.52,0.5990338164251208,Gen X / Boomers,0.9177489177489176,5.0,Male - Gen X / Boomers,High Drain,Normal,58.77172607128554,Medium Risk
+258,Xiaomi Mi 11,Android,272,5.0,1655,45,686,19,Female,3,331.0,Regular,6.04,0.41450151057401813,Gen Z,0.9066666666666666,2.25,Female - Gen Z,High Drain,Normal,38.54492057135229,Low Risk
+259,Xiaomi Mi 11,Android,201,4.0,1791,50,914,18,Male,3,447.75,Regular,4.02,0.5103294249022893,Gen Z,0.8375,2.0,Male - Gen Z,High Drain,Normal,39.46602589774396,Low Risk
+260,Xiaomi Mi 11,Android,570,9.0,2613,98,2497,49,Female,5,290.33,Addicted,5.82,0.9556065824722542,Gen X / Boomers,1.0555555555555556,8.82,Female - Gen X / Boomers,High Drain,Normal,89.6969696969697,High Risk
+261,Xiaomi Mi 11,Android,64,1.3,490,14,151,43,Female,1,376.92,Basic,4.57,0.3081632653061224,Gen X / Boomers,0.8205128205128205,0.18,Female - Gen X / Boomers,Low Drain,Normal,10.389934588172473,Low Risk
+262,iPhone 12,iOS,334,6.6,2394,68,1227,46,Female,4,362.73,Heavy,4.91,0.5125313283208021,Gen X / Boomers,0.8434343434343434,4.49,Female - Gen X / Boomers,High Drain,Normal,57.34775063409424,Medium Risk
+263,iPhone 12,iOS,518,9.6,2954,93,2125,34,Female,5,307.71,Addicted,5.57,0.7193635748138117,Millennials,0.8993055555555556,8.93,Female - Millennials,High Drain,Normal,85.71245494593512,High Risk
+264,Samsung Galaxy S21,Android,70,1.7,359,10,109,57,Male,1,211.18,Basic,7.0,0.30362116991643456,Gen X / Boomers,0.6862745098039217,0.17,Male - Gen X / Boomers,Low Drain,Normal,10.006541182752635,Low Risk
+265,iPhone 12,iOS,334,6.8,2000,77,1079,40,Female,4,294.12,Heavy,4.34,0.5395,Millennials,0.8186274509803921,5.24,Female - Millennials,High Drain,Normal,58.963556267521014,Medium Risk
+266,Xiaomi Mi 11,Android,563,8.4,2849,85,1508,25,Male,5,339.17,Addicted,6.62,0.5293085293085293,Millennials,1.1170634920634919,7.14,Male - Millennials,High Drain,Normal,71.87531704712322,High Risk
+267,iPhone 12,iOS,181,4.1,1608,43,752,22,Female,3,392.2,Regular,4.21,0.46766169154228854,Gen Z,0.7357723577235773,1.76,Female - Gen Z,High Drain,Normal,35.7318115071419,Low Risk
+268,OnePlus 9,Android,584,9.4,2766,84,2151,32,Male,5,294.26,Addicted,6.95,0.7776572668112798,Millennials,1.0354609929078014,7.9,Male - Millennials,High Drain,Normal,82.6308904018155,High Risk
+269,Samsung Galaxy S21,Android,208,4.7,1642,45,861,55,Male,3,349.36,Regular,4.62,0.5243605359317906,Gen X / Boomers,0.7375886524822695,2.12,Male - Gen X / Boomers,High Drain,Normal,39.64744359898545,Low Risk
+270,Samsung Galaxy S21,Android,381,6.6,2160,69,1450,20,Male,4,327.27,Heavy,5.52,0.6712962962962963,Gen Z,0.9621212121212122,4.55,Male - Gen Z,High Drain,Normal,60.329995995194224,Medium Risk
+271,Xiaomi Mi 11,Android,426,6.5,1969,78,1266,53,Female,4,302.92,Heavy,5.46,0.6429659725749112,Gen X / Boomers,1.0923076923076922,5.07,Female - Gen X / Boomers,High Drain,Normal,60.51328260579362,Medium Risk
+272,OnePlus 9,Android,284,4.2,1360,56,888,51,Male,3,323.81,Regular,5.07,0.6529411764705882,Gen X / Boomers,1.126984126984127,2.35,Male - Gen X / Boomers,Low Drain,Normal,41.63849953277266,Medium Risk
+273,Google Pixel 5,Android,105,2.2,1002,29,453,31,Female,2,455.45,Casual,3.62,0.45209580838323354,Millennials,0.7954545454545454,0.64,Female - Millennials,Low Drain,Normal,21.563743158456816,Low Risk
+274,Google Pixel 5,Android,179,2.3,1014,32,588,38,Male,2,440.87,Casual,5.59,0.5798816568047337,Millennials,1.2971014492753625,0.74,Male - Millennials,Low Drain,Normal,24.42811373648378,Low Risk
+275,iPhone 12,iOS,122,2.6,639,37,568,35,Male,2,245.77,Casual,3.3,0.8888888888888888,Millennials,0.7820512820512819,0.96,Male - Millennials,Low Drain,Normal,26.70297690562008,Low Risk
+276,OnePlus 9,Android,501,11.9,2702,88,1738,49,Male,5,227.06,Addicted,5.69,0.6432272390821614,Gen X / Boomers,0.7016806722689075,10.47,Male - Gen X / Boomers,High Drain,Extreme,87.2143906020558,High Risk
+277,Xiaomi Mi 11,Android,269,5.9,1666,42,629,32,Female,3,282.37,Regular,6.4,0.37755102040816324,Millennials,0.7598870056497175,2.48,Female - Millennials,High Drain,Normal,39.95100787611801,Low Risk
+278,Google Pixel 5,Android,230,4.4,1607,52,878,54,Male,3,365.23,Regular,4.42,0.5463596764156814,Gen X / Boomers,0.8712121212121212,2.29,Male - Gen X / Boomers,High Drain,Normal,40.972900814310506,Medium Risk
+279,Xiaomi Mi 11,Android,85,1.6,417,12,122,47,Male,1,260.62,Basic,7.08,0.29256594724220625,Gen X / Boomers,0.8854166666666666,0.19,Male - Gen X / Boomers,Low Drain,Normal,10.435455880389801,Low Risk
+280,Samsung Galaxy S21,Android,411,7.8,2029,75,1136,33,Female,4,260.13,Heavy,5.48,0.5598817151306063,Millennials,0.8782051282051282,5.85,Female - Millennials,High Drain,Normal,62.37565078093713,Medium Risk
+281,Samsung Galaxy S21,Android,73,1.7,403,12,163,51,Male,1,237.06,Basic,6.08,0.4044665012406948,Gen X / Boomers,0.7156862745098039,0.2,Male - Gen X / Boomers,Low Drain,Normal,11.261380323054333,Low Risk
+282,Xiaomi Mi 11,Android,39,1.7,530,11,268,26,Female,1,311.76,Basic,3.55,0.5056603773584906,Millennials,0.3823529411764706,0.19,Female - Millennials,Low Drain,Normal,12.219863836603924,Low Risk
+283,iPhone 12,iOS,386,7.7,2114,72,1209,51,Male,4,274.55,Heavy,5.36,0.5719016083254493,Gen X / Boomers,0.8354978354978355,5.54,Male - Gen X / Boomers,High Drain,Normal,62.01027900146843,Medium Risk
+284,Google Pixel 5,Android,49,1.3,542,16,169,54,Female,1,416.92,Basic,3.06,0.3118081180811808,Gen X / Boomers,0.6282051282051282,0.21,Female - Gen X / Boomers,Low Drain,Normal,11.212254705646778,Low Risk
+285,Google Pixel 5,Android,411,6.9,1820,70,1024,43,Male,4,263.77,Heavy,5.87,0.5626373626373626,Gen X / Boomers,0.9927536231884057,4.83,Male - Gen X / Boomers,High Drain,Normal,56.51488452810039,Medium Risk
+286,OnePlus 9,Android,534,10.8,2805,90,1538,37,Male,5,259.72,Addicted,5.93,0.5483065953654189,Millennials,0.8240740740740741,9.72,Male - Millennials,High Drain,Normal,81.75090108129756,High Risk
+287,Samsung Galaxy S21,Android,314,7.4,2136,64,1376,47,Female,4,288.65,Heavy,4.91,0.6441947565543071,Gen X / Boomers,0.7072072072072072,4.74,Female - Gen X / Boomers,High Drain,Normal,60.59244426645307,Medium Risk
+288,Xiaomi Mi 11,Android,211,4.0,1519,54,811,29,Female,3,379.75,Regular,3.91,0.5339038841342989,Millennials,0.8791666666666667,2.16,Female - Millennials,Low Drain,Normal,39.440662127886796,Low Risk
+289,OnePlus 9,Android,121,3.7,619,36,473,47,Male,2,167.3,Casual,3.36,0.7641357027463651,Gen X / Boomers,0.545045045045045,1.33,Male - Gen X / Boomers,Low Drain,Normal,28.925243625684157,Low Risk
+290,Google Pixel 5,Android,84,1.2,415,10,146,50,Male,1,345.83,Basic,8.4,0.35180722891566263,Gen X / Boomers,1.1666666666666667,0.12,Male - Gen X / Boomers,Low Drain,Normal,8.784407956214123,Low Risk
+291,OnePlus 9,Android,448,7.6,2199,66,1047,28,Male,4,289.34,Heavy,6.79,0.4761255115961801,Millennials,0.9824561403508772,5.02,Male - Millennials,High Drain,Normal,57.91242824723001,Medium Risk
+292,Google Pixel 5,Android,55,1.6,360,19,149,30,Male,1,225.0,Basic,2.89,0.41388888888888886,Millennials,0.5729166666666666,0.3,Male - Millennials,Low Drain,Normal,12.881057268722465,Low Risk
+293,Google Pixel 5,Android,59,1.8,497,10,208,36,Female,1,276.11,Basic,5.9,0.41851106639839036,Millennials,0.5462962962962963,0.18,Female - Millennials,Low Drain,Normal,11.5293018288613,Low Risk
+294,Xiaomi Mi 11,Android,226,4.5,1781,45,649,27,Female,3,395.78,Regular,5.02,0.36440202133632793,Millennials,0.837037037037037,2.02,Female - Millennials,High Drain,Normal,36.43372046455747,Low Risk
+295,Samsung Galaxy S21,Android,580,8.5,2660,87,1795,52,Male,5,312.94,Addicted,6.67,0.674812030075188,Gen X / Boomers,1.1372549019607843,7.4,Male - Gen X / Boomers,High Drain,Normal,76.26284875183553,High Risk
+296,OnePlus 9,Android,65,1.8,481,18,130,41,Male,1,267.22,Basic,3.61,0.2702702702702703,Gen X / Boomers,0.6018518518518517,0.32,Male - Gen X / Boomers,Low Drain,Normal,13.016419703644374,Low Risk
+297,OnePlus 9,Android,458,6.6,2214,67,1163,31,Female,4,335.45,Heavy,6.84,0.525293586269196,Millennials,1.1565656565656568,4.42,Female - Millennials,High Drain,Normal,56.275797623815244,Medium Risk
+298,iPhone 12,iOS,170,2.7,805,26,344,53,Female,2,298.15,Casual,6.54,0.42732919254658386,Gen X / Boomers,1.0493827160493827,0.7,Female - Gen X / Boomers,Low Drain,Normal,21.011747430249635,Low Risk
+299,iPhone 12,iOS,264,5.2,1641,44,778,44,Male,3,315.58,Regular,6.0,0.4741011578305911,Gen X / Boomers,0.8461538461538461,2.29,Male - Gen X / Boomers,High Drain,Normal,40.01388332665866,Medium Risk
+300,Xiaomi Mi 11,Android,122,3.3,748,35,499,59,Female,2,226.67,Casual,3.49,0.6671122994652406,Gen X / Boomers,0.6161616161616161,1.16,Female - Gen X / Boomers,Low Drain,Normal,27.6012548391403,Low Risk
+301,Xiaomi Mi 11,Android,420,6.5,2113,65,1314,35,Male,4,325.08,Heavy,6.46,0.6218646474207288,Millennials,1.0769230769230769,4.22,Male - Millennials,High Drain,Normal,57.1505806968362,Medium Risk
+302,iPhone 12,iOS,267,4.4,1505,59,971,38,Female,3,342.05,Regular,4.53,0.6451827242524917,Millennials,1.0113636363636362,2.6,Female - Millennials,Low Drain,Normal,44.2114537444934,Medium Risk
+303,iPhone 12,iOS,469,6.0,2290,67,1086,34,Female,4,381.67,Heavy,7.0,0.474235807860262,Millennials,1.3027777777777778,4.02,Female - Millennials,High Drain,Normal,53.35068749165666,Medium Risk
+304,iPhone 12,iOS,541,11.4,2443,89,1923,34,Female,5,214.3,Addicted,6.08,0.7871469504707327,Millennials,0.7909356725146199,10.15,Female - Millennials,High Drain,Normal,88.07342143906021,High Risk
+305,iPhone 12,iOS,155,2.9,1117,22,322,19,Female,2,385.17,Casual,7.05,0.288272157564906,Gen Z,0.8908045977011495,0.64,Female - Gen Z,Low Drain,Normal,20.201975704178345,Low Risk
+306,OnePlus 9,Android,106,2.8,686,32,594,27,Male,2,245.0,Casual,3.31,0.8658892128279884,Millennials,0.6309523809523809,0.9,Male - Millennials,Low Drain,Normal,26.166866906955008,Low Risk
+307,OnePlus 9,Android,243,5.0,1232,47,877,43,Male,3,246.4,Regular,5.17,0.7118506493506493,Gen X / Boomers,0.8099999999999999,2.35,Male - Gen X / Boomers,Low Drain,Normal,41.44573488185823,Medium Risk
+308,OnePlus 9,Android,410,7.5,2176,68,1213,45,Female,4,290.13,Heavy,6.03,0.5574448529411765,Gen X / Boomers,0.9111111111111111,5.1,Female - Gen X / Boomers,High Drain,Normal,60.17954879188359,Medium Risk
+309,iPhone 12,iOS,285,5.1,1226,57,666,20,Female,3,240.39,Regular,5.0,0.5432300163132137,Gen Z,0.9313725490196079,2.91,Female - Gen Z,Low Drain,Normal,42.27432919503404,Medium Risk
+310,OnePlus 9,Android,397,6.8,2027,66,1167,40,Male,4,298.09,Heavy,6.02,0.5757276763690182,Millennials,0.9730392156862745,4.49,Male - Millennials,High Drain,Normal,56.68749165665465,Medium Risk
+311,Samsung Galaxy S21,Android,230,4.2,1507,51,868,25,Female,3,358.81,Regular,4.51,0.5759787657597877,Millennials,0.9126984126984127,2.14,Female - Millennials,Low Drain,Normal,39.88305967160593,Low Risk
+312,iPhone 12,iOS,341,7.2,2397,68,1055,32,Female,4,332.92,Heavy,5.01,0.4401335002085941,Millennials,0.7893518518518519,4.9,Female - Millennials,High Drain,Normal,57.28127085836337,Medium Risk
+313,Google Pixel 5,Android,132,2.9,1054,32,563,20,Male,2,363.45,Casual,4.12,0.5341555977229602,Gen Z,0.7586206896551725,0.93,Male - Gen Z,Low Drain,Normal,26.12775330396476,Low Risk
+314,Xiaomi Mi 11,Android,130,3.0,820,21,308,49,Female,2,273.33,Casual,6.19,0.375609756097561,Gen X / Boomers,0.7222222222222222,0.63,Female - Gen X / Boomers,Low Drain,Normal,20.064076892270727,Low Risk
+315,iPhone 12,iOS,281,4.9,1566,59,632,29,Male,3,319.59,Regular,4.76,0.40357598978288634,Millennials,0.95578231292517,2.89,Male - Millennials,High Drain,Normal,41.80523294620211,Medium Risk
+316,OnePlus 9,Android,74,2.0,320,11,103,55,Female,1,160.0,Basic,6.73,0.321875,Gen X / Boomers,0.6166666666666667,0.22,Female - Gen X / Boomers,Low Drain,Normal,11.237484981978373,Low Risk
+317,OnePlus 9,Android,299,4.3,1737,43,953,42,Female,3,403.95,Regular,6.95,0.5486470926885435,Gen X / Boomers,1.1589147286821706,1.85,Female - Gen X / Boomers,High Drain,Normal,38.813376051261514,Low Risk
+318,Google Pixel 5,Android,116,2.2,827,29,434,28,Female,2,375.91,Casual,4.0,0.524788391777509,Millennials,0.8787878787878787,0.64,Female - Millennials,Low Drain,Normal,21.33546922974236,Low Risk
+319,OnePlus 9,Android,408,6.6,2026,63,1076,47,Female,4,306.97,Heavy,6.48,0.5310957551826259,Gen X / Boomers,1.0303030303030303,4.16,Female - Gen X / Boomers,High Drain,Normal,54.01842210652784,Medium Risk
+320,Google Pixel 5,Android,508,11.3,2590,81,2481,51,Male,5,229.2,Addicted,6.27,0.9579150579150579,Gen X / Boomers,0.7492625368731564,9.15,Male - Gen X / Boomers,High Drain,Normal,92.01989053530905,High Risk
+321,iPhone 12,iOS,227,4.4,1275,56,984,22,Female,3,289.77,Regular,4.05,0.7717647058823529,Gen Z,0.8598484848484848,2.46,Female - Gen Z,Low Drain,Normal,43.45855026031238,Medium Risk
+322,Google Pixel 5,Android,274,6.0,1489,56,666,57,Female,3,248.17,Regular,4.89,0.44728005372733376,Gen X / Boomers,0.7611111111111111,3.36,Female - Gen X / Boomers,Low Drain,Normal,44.97129889200374,Medium Risk
+323,Google Pixel 5,Android,347,6.3,2001,61,1456,21,Female,4,317.62,Heavy,5.69,0.7276361819090454,Gen Z,0.917989417989418,3.84,Female - Gen Z,High Drain,Normal,56.97784007475637,Medium Risk
+324,Xiaomi Mi 11,Android,76,1.3,490,14,156,31,Female,1,376.92,Basic,5.43,0.3183673469387755,Millennials,0.9743589743589742,0.18,Female - Millennials,Low Drain,Normal,10.450006674676278,Low Risk
+325,iPhone 12,iOS,445,7.5,2007,78,1115,23,Male,4,267.6,Heavy,5.71,0.5555555555555556,Gen Z,0.9888888888888889,5.85,Male - Gen Z,High Drain,Normal,62.03243892671206,Medium Risk
+326,OnePlus 9,Android,203,4.3,1554,54,638,25,Female,3,361.4,Regular,3.76,0.41055341055341055,Millennials,0.7868217054263567,2.32,Female - Millennials,High Drain,Normal,38.362167934855165,Low Risk
+327,Samsung Galaxy S21,Android,199,6.0,1707,57,881,55,Male,3,284.5,Regular,3.49,0.5161101347393088,Gen X / Boomers,0.5527777777777778,3.42,Male - Gen X / Boomers,High Drain,Normal,47.857428914697635,Medium Risk
+328,OnePlus 9,Android,48,2.0,574,18,127,24,Female,1,287.0,Basic,2.67,0.22125435540069685,Gen Z,0.4,0.36,Female - Gen Z,Low Drain,Normal,13.647043118408757,Low Risk
+329,OnePlus 9,Android,88,1.6,420,12,274,31,Female,1,262.5,Basic,7.33,0.6523809523809524,Millennials,0.9166666666666665,0.19,Female - Millennials,Low Drain,Normal,12.26164731010546,Low Risk
+330,iPhone 12,iOS,541,8.3,2865,89,1820,42,Female,5,345.18,Addicted,6.08,0.6352530541012217,Gen X / Boomers,1.0863453815261044,7.39,Female - Gen X / Boomers,High Drain,Normal,76.5026031237485,High Risk
+331,Google Pixel 5,Android,233,4.6,1534,49,796,21,Female,3,333.48,Regular,4.76,0.5189048239895697,Gen Z,0.8442028985507247,2.25,Female - Gen Z,High Drain,Normal,39.74529435322387,Low Risk
+332,iPhone 12,iOS,176,3.8,727,36,362,47,Female,2,191.32,Casual,4.89,0.49793672627235214,Gen X / Boomers,0.7719298245614035,1.37,Female - Gen X / Boomers,Low Drain,Normal,27.924976638633026,Low Risk
+333,OnePlus 9,Android,191,6.0,1762,45,904,54,Male,3,293.67,Regular,4.24,0.5130533484676504,Gen X / Boomers,0.5305555555555556,2.7,Male - Gen X / Boomers,High Drain,Normal,44.4973968762515,Medium Risk
+334,Google Pixel 5,Android,461,7.5,2001,69,1324,34,Female,4,266.8,Heavy,6.68,0.6616691654172914,Millennials,1.0244444444444445,5.18,Female - Millennials,High Drain,Normal,61.816179415298365,Medium Risk
+335,Samsung Galaxy S21,Android,37,1.5,375,18,246,46,Female,1,250.0,Basic,2.06,0.656,Gen X / Boomers,0.41111111111111115,0.27,Female - Gen X / Boomers,Low Drain,Normal,13.41009211053264,Low Risk
+336,OnePlus 9,Android,531,9.8,2905,99,1632,45,Female,5,296.43,Addicted,5.36,0.561790017211704,Gen X / Boomers,0.9030612244897959,9.7,Female - Gen X / Boomers,High Drain,Normal,82.27419570150849,High Risk
+337,Samsung Galaxy S21,Android,473,7.9,2292,62,1472,44,Male,4,290.13,Heavy,7.63,0.6422338568935427,Gen X / Boomers,0.9978902953586498,4.9,Male - Gen X / Boomers,High Drain,Normal,62.806434387932185,Medium Risk
+338,Samsung Galaxy S21,Android,30,1.3,561,15,252,34,Male,1,431.54,Basic,2.0,0.44919786096256686,Millennials,0.3846153846153846,0.2,Male - Millennials,Low Drain,Normal,11.90642103857963,Low Risk
+339,iPhone 12,iOS,306,6.1,2267,70,1449,46,Male,4,371.64,Heavy,4.37,0.639170710189678,Gen X / Boomers,0.8360655737704918,4.27,Male - Gen X / Boomers,High Drain,Normal,58.95434521425711,Medium Risk
+340,iPhone 12,iOS,64,1.2,590,13,155,30,Male,1,491.67,Basic,4.92,0.2627118644067797,Millennials,0.888888888888889,0.16,Male - Millennials,Low Drain,Normal,9.801628621011881,Low Risk
+341,iPhone 12,iOS,75,1.0,435,13,223,43,Male,1,435.0,Basic,5.77,0.5126436781609195,Gen X / Boomers,1.25,0.13,Male - Gen X / Boomers,Low Drain,Normal,9.951942330796957,Low Risk
+342,iPhone 12,iOS,597,10.3,2718,90,1863,26,Female,5,263.88,Addicted,6.63,0.6854304635761589,Millennials,0.9660194174757281,9.27,Female - Millennials,High Drain,Normal,83.9889200373782,High Risk
+343,iPhone 12,iOS,529,10.5,2971,87,1683,56,Male,5,282.95,Addicted,6.08,0.5664759340289465,Gen X / Boomers,0.8396825396825397,9.14,Male - Gen X / Boomers,High Drain,Normal,81.58390068081698,High Risk
+344,iPhone 12,iOS,290,6.0,1533,54,645,57,Female,3,255.5,Regular,5.37,0.4207436399217221,Gen X / Boomers,0.8055555555555555,3.24,Female - Gen X / Boomers,High Drain,Normal,44.112935522627154,Medium Risk
+345,iPhone 12,iOS,256,5.8,1309,52,840,43,Male,3,225.69,Regular,4.92,0.6417112299465241,Gen X / Boomers,0.735632183908046,3.02,Male - Gen X / Boomers,Low Drain,Normal,45.18301962354826,Medium Risk
+346,iPhone 12,iOS,308,7.7,1974,73,1431,37,Female,4,256.36,Heavy,4.22,0.7249240121580547,Millennials,0.6666666666666667,5.62,Female - Millennials,High Drain,Normal,64.98050994526766,Medium Risk
+347,OnePlus 9,Android,156,3.3,1020,38,447,57,Female,2,309.09,Casual,4.11,0.43823529411764706,Gen X / Boomers,0.787878787878788,1.25,Female - Gen X / Boomers,Low Drain,Normal,27.885596048591637,Low Risk
+348,Samsung Galaxy S21,Android,62,1.4,542,18,266,46,Male,1,387.14,Basic,3.44,0.4907749077490775,Gen X / Boomers,0.7380952380952382,0.25,Male - Gen X / Boomers,Low Drain,Normal,13.317047123214524,Low Risk
+349,Google Pixel 5,Android,156,3.8,866,34,510,26,Male,2,227.89,Casual,4.59,0.5889145496535797,Millennials,0.6842105263157895,1.29,Male - Millennials,Low Drain,Normal,29.097049793085034,Low Risk
+350,Samsung Galaxy S21,Android,303,7.4,2314,66,1387,34,Male,4,312.7,Heavy,4.59,0.5993949870354365,Millennials,0.6824324324324323,4.88,Male - Millennials,High Drain,Normal,61.33066346282206,Medium Risk
+351,Samsung Galaxy S21,Android,463,6.9,2111,73,1463,54,Male,4,305.94,Heavy,6.34,0.6930364756039792,Gen X / Boomers,1.1183574879227052,5.04,Male - Gen X / Boomers,High Drain,Normal,62.698304632225344,Medium Risk
+352,Google Pixel 5,Android,60,1.5,593,14,281,35,Female,1,395.33,Basic,4.29,0.47386172006745364,Millennials,0.6666666666666666,0.21,Female - Millennials,Low Drain,Normal,12.61847550393806,Low Risk
+353,Google Pixel 5,Android,225,4.6,1230,52,954,20,Female,3,267.39,Regular,4.33,0.775609756097561,Gen Z,0.8152173913043479,2.39,Female - Gen Z,Low Drain,Normal,42.552663195835,Medium Risk
+354,Samsung Galaxy S21,Android,379,7.5,1823,68,1075,53,Female,4,243.07,Heavy,5.57,0.589687328579265,Gen X / Boomers,0.8422222222222222,5.1,Female - Gen X / Boomers,High Drain,Normal,58.52155920437859,Medium Risk
+355,OnePlus 9,Android,53,1.4,455,14,106,54,Female,1,325.0,Basic,3.79,0.23296703296703297,Gen X / Boomers,0.6309523809523809,0.2,Female - Gen X / Boomers,Low Drain,Normal,10.182619142971564,Low Risk
+356,Samsung Galaxy S21,Android,30,1.9,574,19,287,45,Male,1,302.11,Basic,1.58,0.5,Gen X / Boomers,0.2631578947368421,0.36,Male - Gen X / Boomers,Low Drain,Normal,15.539046856227472,Low Risk
+357,iPhone 12,iOS,291,4.1,1326,51,905,55,Female,3,323.41,Regular,5.71,0.6825037707390649,Gen X / Boomers,1.1829268292682926,2.09,Female - Gen X / Boomers,Low Drain,Normal,39.994259778400746,Low Risk
+358,iPhone 12,iOS,488,9.5,2840,92,1986,48,Female,5,298.95,Addicted,5.3,0.6992957746478873,Gen X / Boomers,0.856140350877193,8.74,Female - Gen X / Boomers,High Drain,Normal,83.40608730476572,High Risk
+359,Google Pixel 5,Android,74,2.0,366,13,253,44,Female,1,183.0,Basic,5.69,0.6912568306010929,Gen X / Boomers,0.6166666666666667,0.26,Female - Gen X / Boomers,Low Drain,Normal,13.645708183153117,Low Risk
+360,Samsung Galaxy S21,Android,230,4.6,1325,55,845,54,Female,3,288.04,Regular,4.18,0.6377358490566037,Gen X / Boomers,0.8333333333333335,2.53,Female - Gen X / Boomers,Low Drain,Normal,42.15218261914298,Medium Risk
+361,Samsung Galaxy S21,Android,517,11.8,2435,86,2208,26,Male,5,206.36,Addicted,6.01,0.9067761806981519,Millennials,0.730225988700565,10.15,Male - Millennials,High Drain,Extreme,91.92177279401949,High Risk
+362,OnePlus 9,Android,557,10.4,2900,97,1609,22,Male,5,278.85,Addicted,5.74,0.5548275862068965,Gen Z,0.8926282051282051,10.09,Male - Gen Z,High Drain,Normal,83.39180349753038,High Risk
+363,Xiaomi Mi 11,Android,78,1.5,341,11,259,38,Female,1,227.33,Basic,7.09,0.7595307917888563,Millennials,0.8666666666666667,0.16,Female - Millennials,Low Drain,Normal,11.445067414230408,Low Risk
+364,iPhone 12,iOS,321,7.9,2159,64,1499,45,Male,4,273.29,Heavy,5.02,0.6943029180176007,Gen X / Boomers,0.6772151898734177,5.06,Male - Gen X / Boomers,High Drain,Normal,63.73688426111333,Medium Risk
+365,Xiaomi Mi 11,Android,579,8.6,2539,84,1935,34,Male,5,295.23,Addicted,6.89,0.7621110673493502,Millennials,1.122093023255814,7.22,Male - Millennials,High Drain,Normal,77.3691095981845,High Risk
+366,OnePlus 9,Android,382,7.2,1965,67,1341,22,Male,4,272.92,Heavy,5.7,0.6824427480916031,Gen Z,0.8842592592592592,4.82,Male - Gen Z,High Drain,Normal,60.41436390335069,Medium Risk
+367,Xiaomi Mi 11,Android,516,11.6,2464,82,1767,29,Female,5,212.41,Addicted,6.29,0.7171266233766234,Millennials,0.7413793103448276,9.51,Female - Millennials,High Drain,Extreme,84.74462688559605,High Risk
+368,OnePlus 9,Android,598,11.2,2876,85,2477,58,Female,5,256.79,Addicted,7.04,0.8612656467315716,Gen X / Boomers,0.8898809523809524,9.52,Female - Gen X / Boomers,High Drain,Normal,92.85062074489386,High Risk
+369,OnePlus 9,Android,102,3.9,747,36,408,49,Female,2,191.54,Casual,2.83,0.5461847389558233,Gen X / Boomers,0.4358974358974359,1.4,Female - Gen X / Boomers,Low Drain,Normal,28.81097316780136,Low Risk
+370,iPhone 12,iOS,165,2.4,816,35,503,34,Male,2,340.0,Casual,4.71,0.616421568627451,Millennials,1.1458333333333335,0.84,Male - Millennials,Low Drain,Normal,24.649312508343343,Low Risk
+371,iPhone 12,iOS,558,9.8,2765,83,1548,25,Female,5,282.14,Addicted,6.72,0.5598553345388788,Millennials,0.9489795918367347,8.13,Female - Millennials,High Drain,Normal,76.41649979975972,High Risk
+372,Google Pixel 5,Android,561,10.6,2547,86,1823,22,Male,5,240.28,Addicted,6.52,0.7157440125638006,Gen Z,0.8820754716981132,9.12,Male - Gen Z,High Drain,Normal,83.29622213322654,High Risk
+373,Samsung Galaxy S21,Android,511,10.9,2514,91,2335,59,Female,5,230.64,Addicted,5.62,0.9287987271280828,Gen X / Boomers,0.7813455657492355,9.92,Female - Gen X / Boomers,High Drain,Normal,91.96275530636764,High Risk
+374,Google Pixel 5,Android,560,11.3,2947,95,1663,25,Female,5,260.8,Addicted,5.89,0.5643026806922293,Millennials,0.8259587020648967,10.74,Female - Millennials,High Drain,Normal,86.43452142571086,High Risk
+375,OnePlus 9,Android,69,1.3,434,12,164,42,Male,1,333.85,Basic,5.75,0.3778801843317972,Gen X / Boomers,0.8846153846153845,0.16,Male - Gen X / Boomers,Low Drain,Normal,9.94006140702176,Low Risk
+376,OnePlus 9,Android,44,1.1,531,17,232,26,Male,1,482.73,Basic,2.59,0.4369114877589454,Millennials,0.6666666666666665,0.19,Male - Millennials,Low Drain,Normal,11.605526631958352,Low Risk
+377,iPhone 12,iOS,65,1.7,490,17,122,51,Female,1,288.24,Basic,3.82,0.24897959183673468,Gen X / Boomers,0.6372549019607843,0.29,Female - Gen X / Boomers,Low Drain,Normal,12.283940728874649,Low Risk
+378,Google Pixel 5,Android,458,6.0,1875,63,1072,31,Female,4,312.5,Heavy,7.27,0.5717333333333333,Millennials,1.2722222222222224,3.78,Female - Millennials,High Drain,Normal,51.97036443732479,Medium Risk
+379,Samsung Galaxy S21,Android,525,10.8,2445,99,1623,57,Male,5,226.39,Addicted,5.3,0.6638036809815951,Gen X / Boomers,0.8101851851851851,10.69,Male - Gen X / Boomers,High Drain,Normal,85.49939927913496,High Risk
+380,OnePlus 9,Android,106,3.0,922,22,313,51,Male,2,307.33,Casual,4.82,0.33947939262472887,Gen X / Boomers,0.5888888888888889,0.66,Male - Gen X / Boomers,Low Drain,Normal,20.427179281804833,Low Risk
+381,iPhone 12,iOS,188,4.6,1767,47,653,34,Male,3,384.13,Regular,4.0,0.36955291454442557,Millennials,0.6811594202898551,2.16,Male - Millennials,High Drain,Normal,37.42117207315445,Low Risk
+382,iPhone 12,iOS,493,10.4,2453,99,1813,39,Male,5,235.87,Addicted,4.98,0.739094985731757,Millennials,0.7900641025641025,10.3,Male - Millennials,High Drain,Normal,86.4488052329462,High Risk
+383,OnePlus 9,Android,84,1.5,373,19,299,37,Female,1,248.67,Basic,4.42,0.8016085790884718,Millennials,0.9333333333333332,0.28,Female - Millennials,Low Drain,Normal,14.34988653050327,Low Risk
+384,OnePlus 9,Android,104,2.9,653,35,322,30,Male,2,225.17,Casual,2.97,0.49310872894333846,Millennials,0.5977011494252874,1.01,Male - Millennials,Low Drain,Normal,24.141369643572286,Low Risk
+385,Samsung Galaxy S21,Android,102,3.0,890,38,548,28,Male,2,296.67,Casual,2.68,0.6157303370786517,Millennials,0.5666666666666667,1.14,Male - Millennials,Low Drain,Normal,28.099052195968497,Low Risk
+386,iPhone 12,iOS,349,6.6,2041,78,1096,40,Female,4,309.24,Heavy,4.47,0.5369916707496325,Millennials,0.8813131313131313,5.15,Female - Millennials,High Drain,Normal,58.80416499799759,Medium Risk
+387,OnePlus 9,Android,98,2.0,925,32,457,28,Male,2,462.5,Casual,3.06,0.49405405405405406,Millennials,0.8166666666666667,0.64,Male - Millennials,Low Drain,Normal,21.854225070084098,Low Risk
+388,Samsung Galaxy S21,Android,72,1.3,461,13,199,32,Male,1,354.62,Basic,5.54,0.4316702819956616,Millennials,0.923076923076923,0.17,Male - Millennials,Low Drain,Normal,10.663596315578696,Low Risk
+389,Xiaomi Mi 11,Android,563,11.6,2968,92,2191,34,Female,5,255.86,Addicted,6.12,0.7382075471698113,Millennials,0.8089080459770115,10.67,Female - Millennials,High Drain,Extreme,92.8690428514217,High Risk
+390,Xiaomi Mi 11,Android,119,2.8,775,31,313,50,Female,2,276.79,Casual,3.84,0.4038709677419355,Gen X / Boomers,0.7083333333333334,0.87,Female - Gen X / Boomers,Low Drain,Normal,22.48778534241089,Low Risk
+391,OnePlus 9,Android,311,7.9,2231,69,1021,36,Male,4,282.41,Heavy,4.51,0.45764231286418644,Millennials,0.6561181434599156,5.45,Male - Millennials,High Drain,Normal,59.50914430650113,Medium Risk
+392,OnePlus 9,Android,337,6.1,1901,76,1359,58,Male,4,311.64,Heavy,4.43,0.7148869016307207,Gen X / Boomers,0.9207650273224044,4.64,Male - Gen X / Boomers,High Drain,Normal,59.69122947537045,Medium Risk
+393,Samsung Galaxy S21,Android,168,3.5,1055,29,313,54,Male,2,301.43,Casual,5.79,0.2966824644549763,Gen X / Boomers,0.7999999999999999,1.01,Male - Gen X / Boomers,Low Drain,Normal,24.21505806968362,Low Risk
+394,iPhone 12,iOS,331,7.4,2129,66,1459,53,Male,4,287.7,Heavy,5.02,0.6852982620948802,Gen X / Boomers,0.7454954954954954,4.88,Male - Gen X / Boomers,High Drain,Normal,62.195701508476844,Medium Risk
+395,Google Pixel 5,Android,589,9.2,2663,84,1774,45,Female,5,289.46,Addicted,7.01,0.6661659782200525,Gen X / Boomers,1.0670289855072463,7.73,Female - Gen X / Boomers,High Drain,Normal,77.43478841276197,High Risk
+396,Xiaomi Mi 11,Android,472,6.8,2288,61,1356,52,Male,4,336.47,Heavy,7.74,0.5926573426573427,Gen X / Boomers,1.156862745098039,4.15,Male - Gen X / Boomers,High Drain,Normal,57.443065011346945,Medium Risk
+397,Xiaomi Mi 11,Android,78,1.1,437,14,143,27,Female,1,397.27,Basic,5.57,0.32723112128146453,Millennials,1.1818181818181817,0.15,Female - Millennials,Low Drain,Normal,9.62715258309972,Low Risk
+398,iPhone 12,iOS,517,11.6,2798,90,2175,20,Male,5,241.21,Addicted,5.74,0.7773409578270193,Gen Z,0.7428160919540231,10.44,Male - Gen Z,High Drain,Extreme,92.07075156854893,High Risk
+399,OnePlus 9,Android,41,1.6,323,18,221,43,Female,1,201.88,Basic,2.28,0.6842105263157895,Gen X / Boomers,0.4270833333333333,0.29,Female - Gen X / Boomers,Low Drain,Normal,13.443065011346949,Low Risk
+400,OnePlus 9,Android,49,1.5,571,10,203,29,Male,1,380.67,Basic,4.9,0.3555166374781086,Millennials,0.5444444444444444,0.15,Male - Millennials,Low Drain,Normal,10.469229742357495,Low Risk
+401,Xiaomi Mi 11,Android,522,11.1,2821,86,1891,42,Male,5,254.14,Addicted,6.07,0.6703296703296703,Gen X / Boomers,0.7837837837837838,9.55,Male - Gen X / Boomers,High Drain,Normal,85.77986917634495,High Risk
+402,Google Pixel 5,Android,97,2.7,612,36,508,53,Male,2,226.67,Casual,2.69,0.8300653594771242,Gen X / Boomers,0.5987654320987654,0.97,Male - Gen X / Boomers,Low Drain,Normal,26.012414897877456,Low Risk
+403,iPhone 12,iOS,411,7.4,1960,71,1264,40,Male,4,264.86,Heavy,5.79,0.6448979591836734,Millennials,0.9256756756756755,5.25,Male - Millennials,High Drain,Normal,61.36804164997998,Medium Risk
+404,Samsung Galaxy S21,Android,566,8.6,2595,89,1657,51,Female,5,301.74,Addicted,6.36,0.6385356454720617,Gen X / Boomers,1.0968992248062017,7.65,Female - Gen X / Boomers,High Drain,Normal,75.54425310372447,High Risk
+405,iPhone 12,iOS,559,8.2,2618,84,2102,22,Female,5,319.27,Addicted,6.65,0.8029029793735676,Gen Z,1.136178861788618,6.89,Female - Gen Z,High Drain,Normal,78.04218395407823,High Risk
+406,Google Pixel 5,Android,478,7.3,2340,69,1017,43,Female,4,320.55,Heavy,6.93,0.4346153846153846,Gen X / Boomers,1.091324200913242,5.04,Female - Gen X / Boomers,High Drain,Normal,57.461086637298095,Medium Risk
+407,Xiaomi Mi 11,Android,147,3.2,994,33,567,25,Female,2,310.62,Casual,4.45,0.5704225352112676,Millennials,0.765625,1.06,Female - Millennials,Low Drain,Normal,27.478841276198104,Low Risk
+408,OnePlus 9,Android,395,7.3,2291,61,1049,55,Female,4,313.84,Heavy,6.48,0.4578786556089044,Gen X / Boomers,0.9018264840182648,4.45,Female - Gen X / Boomers,High Drain,Normal,55.42130556668002,Medium Risk
+409,Samsung Galaxy S21,Android,357,7.8,2289,74,1242,22,Female,4,293.46,Heavy,4.82,0.5425950196592398,Gen Z,0.7628205128205129,5.77,Female - Gen Z,High Drain,Normal,63.34614871178748,Medium Risk
+410,Google Pixel 5,Android,405,6.9,2366,61,1434,51,Male,4,342.9,Heavy,6.64,0.6060862214708369,Gen X / Boomers,0.9782608695652173,4.21,Male - Gen X / Boomers,High Drain,Normal,58.71352289413964,Medium Risk
+411,Samsung Galaxy S21,Android,501,11.8,2790,86,2074,31,Female,5,236.44,Addicted,5.83,0.7433691756272401,Millennials,0.7076271186440677,10.15,Female - Millennials,High Drain,Extreme,90.31184087571754,High Risk
+412,Xiaomi Mi 11,Android,575,8.2,2918,88,1928,50,Male,5,355.85,Addicted,6.53,0.660726525017135,Gen X / Boomers,1.1686991869918701,7.22,Male - Gen X / Boomers,High Drain,Normal,77.16379655586704,High Risk
+413,OnePlus 9,Android,257,5.1,1692,46,769,52,Female,3,331.76,Regular,5.59,0.45449172576832153,Gen X / Boomers,0.8398692810457516,2.35,Female - Gen X / Boomers,High Drain,Normal,40.17848084367908,Medium Risk
+414,iPhone 12,iOS,270,5.0,1532,51,957,35,Male,3,306.4,Regular,5.29,0.6246736292428199,Millennials,0.9,2.55,Male - Millennials,High Drain,Normal,43.61900947804031,Medium Risk
+415,Google Pixel 5,Android,116,2.0,1171,22,573,33,Female,2,585.5,Casual,5.27,0.4893253629376601,Millennials,0.9666666666666667,0.44,Female - Millennials,Low Drain,Normal,20.217594446669338,Low Risk
+416,iPhone 12,iOS,98,2.3,608,24,394,56,Male,2,264.35,Casual,4.08,0.6480263157894737,Gen X / Boomers,0.7101449275362319,0.55,Male - Gen X / Boomers,Low Drain,Normal,19.67307435589374,Low Risk
+417,Xiaomi Mi 11,Android,264,5.1,1293,52,737,27,Female,3,253.53,Regular,5.08,0.5699922660479505,Millennials,0.8627450980392158,2.65,Female - Millennials,Low Drain,Normal,41.61220130823655,Medium Risk
+418,Samsung Galaxy S21,Android,572,11.7,2655,91,2481,57,Female,5,226.92,Addicted,6.29,0.9344632768361582,Gen X / Boomers,0.8148148148148149,10.65,Female - Gen X / Boomers,High Drain,Extreme,96.3835268989454,High Risk
+419,Xiaomi Mi 11,Android,202,4.9,1549,43,964,27,Female,3,316.12,Regular,4.7,0.6223369916074887,Millennials,0.6870748299319728,2.11,Female - Millennials,High Drain,Normal,40.945534641569886,Medium Risk
+420,iPhone 12,iOS,83,1.4,454,11,228,46,Male,1,324.29,Basic,7.55,0.5022026431718062,Gen X / Boomers,0.9880952380952381,0.15,Male - Gen X / Boomers,Low Drain,Normal,10.739287144573488,Low Risk
+421,iPhone 12,iOS,32,1.4,416,12,198,56,Male,1,297.14,Basic,2.67,0.47596153846153844,Gen X / Boomers,0.380952380952381,0.17,Male - Gen X / Boomers,Low Drain,Normal,10.681884928580963,Low Risk
+422,iPhone 12,iOS,168,3.2,716,38,414,43,Male,2,223.75,Casual,4.42,0.5782122905027933,Gen X / Boomers,0.8749999999999999,1.22,Male - Gen X / Boomers,Low Drain,Normal,27.1557869443332,Low Risk
+423,iPhone 12,iOS,416,6.1,2115,71,1041,22,Female,4,346.72,Heavy,5.86,0.4921985815602837,Gen Z,1.1366120218579236,4.33,Female - Gen Z,High Drain,Normal,54.355493258576956,Medium Risk
+424,Xiaomi Mi 11,Android,46,1.1,536,18,167,28,Female,1,487.27,Basic,2.56,0.31156716417910446,Millennials,0.6969696969696969,0.2,Female - Millennials,Low Drain,Normal,11.127619810439194,Low Risk
+425,OnePlus 9,Android,201,5.0,1482,59,709,24,Male,3,296.4,Regular,3.41,0.4784075573549258,Gen Z,0.67,2.95,Male - Gen Z,Low Drain,Normal,43.06367641169403,Medium Risk
+426,Samsung Galaxy S21,Android,130,2.8,1062,24,579,37,Male,2,379.29,Casual,5.42,0.5451977401129944,Millennials,0.7738095238095238,0.67,Male - Millennials,Low Drain,Normal,23.562408223201174,Low Risk
+427,OnePlus 9,Android,98,2.4,747,36,403,44,Female,2,311.25,Casual,2.72,0.5394912985274432,Gen X / Boomers,0.6805555555555556,0.86,Female - Gen X / Boomers,Low Drain,Normal,23.750901081297556,Low Risk
+428,OnePlus 9,Android,105,3.8,967,28,489,51,Male,2,254.47,Casual,3.75,0.5056876938986556,Gen X / Boomers,0.46052631578947373,1.06,Male - Gen X / Boomers,Low Drain,Normal,27.026565211587236,Low Risk
+429,Xiaomi Mi 11,Android,94,2.3,1033,33,369,58,Male,2,449.13,Casual,2.85,0.35721200387221685,Gen X / Boomers,0.6811594202898551,0.76,Male - Gen X / Boomers,Low Drain,Normal,22.099986650647445,Low Risk
+430,Xiaomi Mi 11,Android,540,10.1,2757,90,2180,37,Male,5,272.97,Addicted,6.0,0.7907145447950671,Millennials,0.8910891089108911,9.09,Male - Millennials,High Drain,Normal,87.13082365505272,High Risk
+431,iPhone 12,iOS,266,5.5,1238,59,839,22,Male,3,225.09,Regular,4.51,0.6777059773828756,Gen Z,0.8060606060606061,3.24,Male - Gen Z,Low Drain,Normal,46.29221732745961,Medium Risk
+432,iPhone 12,iOS,140,3.8,1137,36,506,53,Male,2,299.21,Casual,3.89,0.4450307827616535,Gen X / Boomers,0.6140350877192983,1.37,Male - Gen X / Boomers,Low Drain,Normal,29.6550527299426,Low Risk
+433,Google Pixel 5,Android,534,10.4,2672,90,1702,51,Male,5,256.92,Addicted,5.93,0.6369760479041916,Gen X / Boomers,0.8557692307692307,9.36,Male - Gen X / Boomers,High Drain,Normal,82.38793218528902,High Risk
+434,OnePlus 9,Android,46,2.0,309,15,116,42,Male,1,154.5,Basic,3.07,0.37540453074433655,Gen X / Boomers,0.38333333333333336,0.3,Male - Gen X / Boomers,Low Drain,Normal,12.605793619009479,Low Risk
+435,iPhone 12,iOS,581,8.4,2591,99,2304,58,Male,5,308.45,Addicted,5.87,0.8892319567734466,Gen X / Boomers,1.1527777777777777,8.32,Male - Gen X / Boomers,High Drain,Normal,85.68121746095315,High Risk
+436,Xiaomi Mi 11,Android,105,3.4,798,21,467,34,Female,2,234.71,Casual,5.0,0.5852130325814536,Millennials,0.5147058823529412,0.71,Female - Millennials,Low Drain,Normal,23.30770257642504,Low Risk
+437,OnePlus 9,Android,221,4.4,1341,46,862,20,Male,3,304.77,Regular,4.8,0.6428038777032066,Gen Z,0.837121212121212,2.02,Male - Gen Z,Low Drain,Normal,38.96248831931651,Low Risk
+438,iPhone 12,iOS,41,1.7,408,16,291,34,Male,1,240.0,Basic,2.56,0.7132352941176471,Millennials,0.4019607843137255,0.27,Male - Millennials,Low Drain,Normal,14.01134694967294,Low Risk
+439,OnePlus 9,Android,105,3.0,728,24,343,52,Female,2,242.67,Casual,4.38,0.47115384615384615,Gen X / Boomers,0.5833333333333334,0.72,Female - Gen X / Boomers,Low Drain,Normal,21.393672406888268,Low Risk
+440,Google Pixel 5,Android,123,3.9,915,39,468,18,Male,2,234.62,Casual,3.15,0.5114754098360655,Gen Z,0.5256410256410257,1.52,Male - Gen Z,Low Drain,Normal,30.440929114937923,Low Risk
+441,Google Pixel 5,Android,260,5.7,1725,56,920,36,Female,3,302.63,Regular,4.64,0.5333333333333333,Millennials,0.7602339181286549,3.19,Female - Millennials,High Drain,Normal,47.02296088639701,Medium Risk
+442,Samsung Galaxy S21,Android,223,5.7,1295,44,751,39,Male,3,227.19,Regular,5.07,0.57992277992278,Millennials,0.652046783625731,2.51,Male - Millennials,Low Drain,Normal,41.35616072620478,Medium Risk
+443,Google Pixel 5,Android,66,1.1,505,17,218,33,Male,1,459.09,Basic,3.88,0.4316831683168317,Millennials,1.0,0.19,Male - Millennials,Low Drain,Normal,11.437324789747699,Low Risk
+444,iPhone 12,iOS,231,4.0,1664,48,724,29,Female,3,416.0,Regular,4.81,0.43509615384615385,Millennials,0.9625,1.92,Female - Millennials,High Drain,Normal,36.57722600453878,Low Risk
+445,iPhone 12,iOS,555,8.8,2540,97,2402,22,Male,5,288.64,Addicted,5.72,0.9456692913385827,Gen Z,1.0511363636363635,8.54,Male - Gen Z,High Drain,Normal,87.58590308370044,High Risk
+446,Samsung Galaxy S21,Android,378,7.2,1859,61,1318,58,Male,4,258.19,Heavy,6.2,0.7089833243679398,Gen X / Boomers,0.875,4.39,Male - Gen X / Boomers,High Drain,Normal,58.31985048725137,Medium Risk
+447,OnePlus 9,Android,546,8.8,2852,81,1641,24,Male,5,324.09,Addicted,6.74,0.5753856942496494,Gen Z,1.034090909090909,7.13,Male - Gen Z,High Drain,Normal,73.59444666933653,High Risk
+448,Samsung Galaxy S21,Android,234,5.2,1604,58,919,58,Male,3,308.46,Regular,4.03,0.5729426433915212,Gen X / Boomers,0.75,3.02,Male - Gen X / Boomers,High Drain,Normal,45.95034040849019,Medium Risk
+449,Samsung Galaxy S21,Android,152,3.0,617,22,306,22,Female,2,205.67,Casual,6.91,0.4959481361426256,Gen Z,0.8444444444444444,0.66,Female - Gen Z,Low Drain,Normal,20.343078360699508,Low Risk
+450,Google Pixel 5,Android,34,1.2,518,10,170,20,Female,1,431.67,Basic,3.4,0.3281853281853282,Gen Z,0.4722222222222222,0.12,Female - Gen Z,Low Drain,Normal,9.072753971432384,Low Risk
+451,Samsung Galaxy S21,Android,179,3.5,1114,30,466,56,Male,2,318.29,Casual,5.97,0.41831238779174146,Gen X / Boomers,0.8523809523809524,1.05,Male - Gen X / Boomers,Low Drain,Normal,26.356294219730344,Low Risk
+452,OnePlus 9,Android,591,11.8,2953,92,1903,52,Male,5,250.25,Addicted,6.42,0.6444293938367761,Gen X / Boomers,0.8347457627118643,10.86,Male - Gen X / Boomers,High Drain,Extreme,90.07555733546923,High Risk
+453,Samsung Galaxy S21,Android,120,3.3,734,35,583,26,Male,2,222.42,Casual,3.43,0.7942779291553134,Millennials,0.6060606060606061,1.16,Male - Millennials,Low Drain,Normal,28.610465892404218,Low Risk
+454,Google Pixel 5,Android,88,1.3,557,13,164,43,Male,1,428.46,Basic,6.77,0.29443447037701975,Gen X / Boomers,1.1282051282051282,0.17,Male - Gen X / Boomers,Low Drain,Normal,10.243091710052063,Low Risk
+455,iPhone 12,iOS,143,3.9,1160,24,398,45,Male,2,297.44,Casual,5.96,0.3431034482758621,Gen X / Boomers,0.6111111111111112,0.94,Male - Gen X / Boomers,Low Drain,Normal,25.054465358430114,Low Risk
+456,iPhone 12,iOS,74,1.6,436,13,182,27,Female,1,272.5,Basic,5.69,0.41743119266055045,Millennials,0.7708333333333334,0.21,Female - Millennials,Low Drain,Normal,11.45935122146576,Low Risk
+457,iPhone 12,iOS,74,1.6,587,15,275,27,Female,1,366.88,Basic,4.93,0.4684838160136286,Millennials,0.7708333333333334,0.24,Female - Millennials,Low Drain,Normal,13.182752636497131,Low Risk
+458,OnePlus 9,Android,234,4.7,1707,55,871,46,Male,3,363.19,Regular,4.25,0.5102519039250146,Gen X / Boomers,0.8297872340425532,2.58,Male - Gen X / Boomers,High Drain,Normal,42.797890802296095,Medium Risk
+459,iPhone 12,iOS,56,1.0,547,10,142,58,Female,1,547.0,Basic,5.6,0.2595978062157221,Gen X / Boomers,0.9333333333333333,0.1,Female - Gen X / Boomers,Low Drain,Normal,8.069683620344414,Low Risk
+460,OnePlus 9,Android,174,2.4,639,37,545,50,Male,2,266.25,Casual,4.7,0.8528951486697965,Gen X / Boomers,1.2083333333333333,0.89,Male - Gen X / Boomers,Low Drain,Normal,25.759978641035907,Low Risk
+461,Samsung Galaxy S21,Android,523,9.0,2696,91,1561,20,Female,5,299.56,Addicted,5.75,0.5790059347181009,Gen Z,0.9685185185185186,8.19,Female - Gen Z,High Drain,Normal,76.33026298224536,High Risk
+462,Samsung Galaxy S21,Android,123,3.3,938,36,438,55,Male,2,284.24,Casual,3.42,0.4669509594882729,Gen X / Boomers,0.6212121212121212,1.19,Male - Gen X / Boomers,Low Drain,Normal,27.171405686824187,Low Risk
+463,Samsung Galaxy S21,Android,216,5.9,1789,54,987,55,Male,3,303.22,Regular,4.0,0.5517048630519843,Gen X / Boomers,0.6101694915254237,3.19,Male - Gen X / Boomers,High Drain,Normal,47.888532906154055,Medium Risk
+464,iPhone 12,iOS,290,4.6,1694,50,809,23,Male,3,368.26,Regular,5.8,0.47756788665879574,Gen Z,1.0507246376811594,2.3,Male - Gen Z,High Drain,Normal,40.20451208116407,Medium Risk
+465,Xiaomi Mi 11,Android,68,1.3,583,10,281,26,Female,1,448.46,Basic,6.8,0.48198970840480276,Millennials,0.8717948717948717,0.13,Female - Millennials,Low Drain,Normal,10.739687625150182,Low Risk
+466,OnePlus 9,Android,265,4.8,1770,51,723,55,Female,3,368.75,Regular,5.2,0.40847457627118644,Gen X / Boomers,0.920138888888889,2.45,Female - Gen X / Boomers,High Drain,Normal,40.14096916299559,Medium Risk
+467,Samsung Galaxy S21,Android,414,7.3,2349,75,1092,51,Male,4,321.78,Heavy,5.52,0.4648786717752235,Gen X / Boomers,0.9452054794520549,5.48,Male - Gen X / Boomers,High Drain,Normal,60.18034975303698,Medium Risk
+468,Google Pixel 5,Android,238,4.0,1414,47,661,41,Female,3,353.5,Regular,5.06,0.46746817538896746,Gen X / Boomers,0.9916666666666667,1.88,Female - Gen X / Boomers,Low Drain,Normal,35.51728741156054,Low Risk
+469,Xiaomi Mi 11,Android,429,7.5,1921,61,1102,46,Male,4,256.13,Heavy,7.03,0.5736595523165018,Gen X / Boomers,0.9533333333333334,4.58,Male - Gen X / Boomers,High Drain,Normal,56.72473635028701,Medium Risk
+470,Xiaomi Mi 11,Android,39,1.9,541,16,294,37,Male,1,284.74,Basic,2.44,0.5434380776340111,Millennials,0.34210526315789475,0.3,Male - Millennials,Low Drain,Normal,14.71405686824189,Low Risk
+471,Samsung Galaxy S21,Android,248,4.6,1396,52,883,40,Male,3,303.48,Regular,4.77,0.6325214899713467,Millennials,0.8985507246376813,2.39,Male - Millennials,Low Drain,Normal,41.69963956748098,Medium Risk
+472,Xiaomi Mi 11,Android,541,9.4,2452,93,1811,53,Female,5,260.85,Addicted,5.82,0.7385807504078303,Gen X / Boomers,0.9592198581560284,8.74,Female - Gen X / Boomers,High Drain,Normal,81.27326124682953,High Risk
+473,Xiaomi Mi 11,Android,139,3.0,697,37,513,26,Female,2,232.33,Casual,3.76,0.7360114777618364,Millennials,0.7722222222222223,1.11,Female - Millennials,Low Drain,Normal,27.37551728741156,Low Risk
+474,iPhone 12,iOS,289,5.0,1625,45,687,29,Male,3,325.0,Regular,6.42,0.4227692307692308,Millennials,0.9633333333333333,2.25,Male - Millennials,High Drain,Normal,38.556934988653055,Low Risk
+475,Xiaomi Mi 11,Android,210,4.9,1657,55,765,49,Female,3,338.16,Regular,3.82,0.46167773083886543,Gen X / Boomers,0.7142857142857142,2.7,Female - Gen X / Boomers,High Drain,Normal,42.1910292350821,Medium Risk
+476,Samsung Galaxy S21,Android,412,6.2,2201,68,1085,54,Female,4,355.0,Heavy,6.06,0.49295774647887325,Gen X / Boomers,1.10752688172043,4.22,Female - Gen X / Boomers,High Drain,Normal,54.308370044052865,Medium Risk
+477,Google Pixel 5,Android,318,6.6,2089,77,1126,49,Female,4,316.52,Heavy,4.13,0.5390138822403063,Gen X / Boomers,0.8030303030303031,5.08,Female - Gen X / Boomers,High Drain,Normal,58.861567213990114,Medium Risk
+478,iPhone 12,iOS,258,4.2,1315,44,762,59,Female,3,313.1,Regular,5.86,0.5794676806083651,Gen X / Boomers,1.0238095238095237,1.85,Female - Gen X / Boomers,Low Drain,Normal,36.488319316513156,Low Risk
+479,OnePlus 9,Android,258,4.3,1759,59,718,41,Female,3,409.07,Regular,4.37,0.4081864695849915,Gen X / Boomers,1.0,2.54,Female - Gen X / Boomers,High Drain,Normal,40.838472834067545,Medium Risk
+480,Samsung Galaxy S21,Android,189,4.8,1681,59,795,57,Male,3,350.21,Regular,3.2,0.4729327781082689,Gen X / Boomers,0.65625,2.83,Male - Gen X / Boomers,High Drain,Normal,43.4302496328928,Medium Risk
+481,iPhone 12,iOS,155,2.4,954,39,441,51,Male,2,397.5,Casual,3.97,0.46226415094339623,Gen X / Boomers,1.076388888888889,0.94,Male - Gen X / Boomers,Low Drain,Normal,25.11653984781738,Low Risk
+482,Samsung Galaxy S21,Android,528,10.4,2717,87,2140,34,Male,5,261.25,Addicted,6.07,0.7876334192123666,Millennials,0.8461538461538461,9.05,Male - Millennials,High Drain,Normal,86.74115605393139,High Risk
+483,iPhone 12,iOS,549,11.1,2851,87,1814,56,Male,5,256.85,Addicted,6.31,0.6362679761487198,Gen X / Boomers,0.8243243243243243,9.66,Male - Gen X / Boomers,High Drain,Normal,85.15778934721666,High Risk
+484,Xiaomi Mi 11,Android,78,1.6,470,18,230,49,Female,1,293.75,Basic,4.33,0.48936170212765956,Gen X / Boomers,0.8125,0.29,Female - Gen X / Boomers,Low Drain,Normal,13.551194767053799,Low Risk
+485,iPhone 12,iOS,444,6.0,1873,61,1093,39,Female,4,312.17,Heavy,7.28,0.5835557928457021,Millennials,1.2333333333333334,3.66,Female - Millennials,High Drain,Normal,51.61660659458016,Medium Risk
+486,Xiaomi Mi 11,Android,80,1.1,417,18,298,36,Male,1,379.09,Basic,4.44,0.7146282973621103,Millennials,1.212121212121212,0.2,Male - Millennials,Low Drain,Normal,12.701508476838875,Low Risk
+487,iPhone 12,iOS,131,3.8,739,34,330,57,Female,2,194.47,Casual,3.85,0.4465493910690122,Gen X / Boomers,0.5745614035087719,1.29,Female - Gen X / Boomers,Low Drain,Normal,26.93445467894807,Low Risk
+488,iPhone 12,iOS,228,4.4,1734,46,804,57,Female,3,394.09,Regular,4.96,0.46366782006920415,Gen X / Boomers,0.8636363636363635,2.02,Female - Gen X / Boomers,High Drain,Normal,38.26565211587238,Low Risk
+489,Xiaomi Mi 11,Android,416,7.3,1882,62,1333,32,Female,4,257.81,Heavy,6.71,0.7082890541976621,Millennials,0.949771689497717,4.53,Female - Millennials,High Drain,Normal,59.13643038312642,Medium Risk
+490,Google Pixel 5,Android,586,9.3,2403,94,2332,21,Male,5,258.39,Addicted,6.23,0.9704535996670828,Gen Z,1.050179211469534,8.74,Male - Gen Z,High Drain,Normal,87.50246963022293,High Risk
+491,Google Pixel 5,Android,416,6.1,2279,71,1096,47,Male,4,373.61,Heavy,5.86,0.48091268100043877,Gen X / Boomers,1.1366120218579236,4.33,Male - Gen X / Boomers,High Drain,Normal,55.01628621011881,Medium Risk
+492,iPhone 12,iOS,152,3.7,948,22,507,53,Female,2,256.22,Casual,6.91,0.5348101265822784,Gen X / Boomers,0.6846846846846846,0.81,Female - Gen X / Boomers,Low Drain,Normal,25.09130957148578,Low Risk
+493,Xiaomi Mi 11,Android,87,1.5,594,19,198,36,Female,1,396.0,Basic,4.58,0.3333333333333333,Millennials,0.9666666666666667,0.28,Female - Millennials,Low Drain,Normal,13.136430383126417,Low Risk
+494,OnePlus 9,Android,329,6.8,1892,69,1383,23,Male,4,278.24,Heavy,4.77,0.7309725158562368,Gen Z,0.8063725490196079,4.69,Male - Gen Z,High Drain,Normal,60.19169670270992,Medium Risk
+495,Samsung Galaxy S21,Android,107,2.5,1176,24,545,29,Female,2,470.4,Casual,4.46,0.46343537414965985,Millennials,0.7133333333333334,0.6,Female - Millennials,Low Drain,Normal,22.153918034975305,Low Risk
+496,Google Pixel 5,Android,493,10.9,2928,88,2116,57,Male,5,268.62,Addicted,5.6,0.7226775956284153,Gen X / Boomers,0.753822629969419,9.59,Male - Gen X / Boomers,High Drain,Normal,88.4225070084101,High Risk
+497,iPhone 12,iOS,182,4.8,1500,51,807,43,Female,3,312.5,Regular,3.57,0.538,Gen X / Boomers,0.6319444444444444,2.45,Female - Gen X / Boomers,Low Drain,Normal,41.15018021625951,Medium Risk
+498,iPhone 12,iOS,102,2.9,918,37,362,20,Female,2,316.55,Casual,2.76,0.39433551198257083,Gen Z,0.5862068965517241,1.07,Female - Gen Z,Low Drain,Normal,25.22800694166333,Low Risk
+499,Google Pixel 5,Android,274,4.5,1356,54,869,53,Male,3,301.33,Regular,5.07,0.6408554572271387,Gen X / Boomers,1.0148148148148148,2.43,Male - Gen X / Boomers,Low Drain,Normal,41.804164997997596,Medium Risk
+500,iPhone 12,iOS,143,3.6,988,26,504,45,Female,2,274.44,Casual,5.5,0.5101214574898786,Gen X / Boomers,0.662037037037037,0.94,Female - Gen X / Boomers,Low Drain,Normal,25.93405419837138,Low Risk
+501,Google Pixel 5,Android,66,1.3,369,14,195,32,Male,1,283.85,Basic,4.71,0.5284552845528455,Millennials,0.8461538461538461,0.18,Male - Millennials,Low Drain,Normal,10.918568949405955,Low Risk
+502,Xiaomi Mi 11,Android,420,7.7,2017,74,1187,24,Female,4,261.95,Heavy,5.68,0.5884977689638077,Gen Z,0.9090909090909091,5.7,Female - Gen Z,High Drain,Normal,62.3520224269123,Medium Risk
+503,Xiaomi Mi 11,Android,582,8.4,2664,91,2493,55,Female,5,317.14,Addicted,6.4,0.9358108108108109,Gen X / Boomers,1.1547619047619047,7.64,Female - Gen X / Boomers,High Drain,Normal,85.52769990655455,High Risk
+504,Google Pixel 5,Android,200,5.8,1291,50,965,52,Male,3,222.59,Regular,4.0,0.7474825716498839,Gen X / Boomers,0.574712643678161,2.9,Male - Gen X / Boomers,Low Drain,Normal,46.078761180082765,Medium Risk
+505,Google Pixel 5,Android,493,8.5,2859,99,2450,47,Male,5,336.35,Addicted,4.98,0.856942987058412,Gen X / Boomers,0.9666666666666667,8.41,Male - Gen X / Boomers,High Drain,Normal,87.76865572019757,High Risk
+506,Samsung Galaxy S21,Android,348,6.6,2398,66,1415,49,Female,4,363.33,Heavy,5.27,0.5900750625521268,Gen X / Boomers,0.8787878787878788,4.36,Female - Gen X / Boomers,High Drain,Normal,59.00040048057669,Medium Risk
+507,Xiaomi Mi 11,Android,238,5.1,1408,45,941,27,Male,3,276.08,Regular,5.29,0.6683238636363636,Millennials,0.7777777777777779,2.3,Male - Millennials,Low Drain,Normal,41.941930316379654,Medium Risk
+508,Xiaomi Mi 11,Android,33,2.0,318,11,173,42,Female,1,159.0,Basic,3.0,0.5440251572327044,Gen X / Boomers,0.275,0.22,Female - Gen X / Boomers,Low Drain,Normal,12.078494193031638,Low Risk
+509,Google Pixel 5,Android,267,5.9,1740,45,791,22,Male,3,294.92,Regular,5.93,0.45459770114942527,Gen Z,0.7542372881355932,2.66,Male - Gen Z,High Drain,Normal,42.806434387932185,Medium Risk
+510,iPhone 12,iOS,492,10.0,2513,90,1968,31,Male,5,251.3,Addicted,5.47,0.7831277357739753,Millennials,0.82,9.0,Male - Millennials,High Drain,Normal,84.25043385395809,High Risk
+511,Google Pixel 5,Android,241,5.3,1767,58,976,38,Female,3,333.4,Regular,4.16,0.5523486134691568,Millennials,0.7578616352201258,3.07,Female - Millennials,High Drain,Normal,46.968495527966894,Medium Risk
+512,Samsung Galaxy S21,Android,567,10.8,2911,89,1682,39,Male,5,269.54,Addicted,6.37,0.5778083132944005,Millennials,0.8749999999999999,9.61,Male - Millennials,High Drain,Normal,83.17794686957683,High Risk
+513,Samsung Galaxy S21,Android,36,1.6,442,17,249,34,Male,1,276.25,Basic,2.12,0.5633484162895928,Millennials,0.37499999999999994,0.27,Male - Millennials,Low Drain,Normal,13.47643839273795,Low Risk
+514,OnePlus 9,Android,110,3.4,975,31,507,57,Female,2,286.76,Casual,3.55,0.52,Gen X / Boomers,0.5392156862745098,1.05,Female - Gen X / Boomers,Low Drain,Normal,26.81858229875851,Low Risk
+515,Samsung Galaxy S21,Android,466,7.1,1984,73,1461,54,Male,4,279.44,Heavy,6.38,0.7363911290322581,Gen X / Boomers,1.0938967136150235,5.18,Male - Gen X / Boomers,High Drain,Normal,63.34094246429049,Medium Risk
+516,OnePlus 9,Android,126,2.2,1187,28,599,25,Male,2,539.55,Casual,4.5,0.5046335299073293,Millennials,0.9545454545454545,0.62,Male - Millennials,Low Drain,Normal,23.014817781337605,Low Risk
+517,Xiaomi Mi 11,Android,120,3.8,940,36,535,44,Male,2,247.37,Casual,3.33,0.5691489361702128,Gen X / Boomers,0.5263157894736842,1.37,Male - Gen X / Boomers,Low Drain,Normal,30.003470831664664,Low Risk
+518,iPhone 12,iOS,64,1.2,592,19,218,25,Male,1,493.33,Basic,3.37,0.36824324324324326,Millennials,0.888888888888889,0.23,Male - Millennials,Low Drain,Normal,12.376718729141636,Low Risk
+519,OnePlus 9,Android,574,8.5,2780,87,1809,34,Female,5,327.06,Addicted,6.6,0.6507194244604316,Millennials,1.1254901960784314,7.4,Female - Millennials,High Drain,Normal,76.43105059404618,High Risk
+520,OnePlus 9,Android,119,2.2,1123,22,371,51,Male,2,510.45,Casual,5.41,0.3303650934995548,Gen X / Boomers,0.9015151515151515,0.48,Male - Gen X / Boomers,Low Drain,Normal,18.457348818582297,Low Risk
+521,OnePlus 9,Android,350,6.5,2364,75,1485,20,Male,4,363.69,Heavy,4.67,0.6281725888324873,Gen Z,0.8974358974358974,4.88,Male - Gen Z,High Drain,Normal,62.23534908556935,Medium Risk
+522,Google Pixel 5,Android,69,1.1,535,17,250,25,Male,1,486.36,Basic,4.06,0.4672897196261682,Millennials,1.0454545454545452,0.19,Male - Millennials,Low Drain,Normal,11.821786143372048,Low Risk
+523,Xiaomi Mi 11,Android,438,6.5,1849,64,1125,49,Female,4,284.46,Heavy,6.84,0.6084369929691725,Gen X / Boomers,1.123076923076923,4.16,Female - Gen X / Boomers,High Drain,Normal,54.576825523962086,Medium Risk
+524,Samsung Galaxy S21,Android,506,11.2,2623,98,2460,48,Male,5,234.2,Addicted,5.16,0.9378574151734655,Gen X / Boomers,0.7529761904761906,10.98,Male - Gen X / Boomers,High Drain,Normal,96.58576959017488,High Risk
+525,Samsung Galaxy S21,Android,272,5.2,1390,45,792,57,Female,3,267.31,Regular,6.04,0.5697841726618705,Gen X / Boomers,0.8717948717948717,2.34,Female - Gen X / Boomers,Low Drain,Normal,40.48511547189962,Medium Risk
+526,Samsung Galaxy S21,Android,224,4.5,1646,57,665,59,Male,3,365.78,Regular,3.93,0.4040097205346294,Gen X / Boomers,0.8296296296296296,2.56,Male - Gen X / Boomers,High Drain,Normal,40.26231477773328,Medium Risk
+527,Google Pixel 5,Android,99,2.4,689,36,318,29,Female,2,287.08,Casual,2.75,0.46153846153846156,Millennials,0.6875,0.86,Female - Millennials,Low Drain,Normal,22.72967561073288,Low Risk
+528,iPhone 12,iOS,44,1.2,466,10,131,57,Female,1,388.33,Basic,4.4,0.2811158798283262,Gen X / Boomers,0.611111111111111,0.12,Female - Gen X / Boomers,Low Drain,Normal,8.60419169670271,Low Risk
+529,Google Pixel 5,Android,175,3.0,801,32,338,24,Male,2,267.0,Casual,5.47,0.42197253433208487,Gen Z,0.9722222222222222,0.96,Male - Gen Z,Low Drain,Normal,23.757842744626885,Low Risk
+530,Google Pixel 5,Android,228,4.8,1639,47,796,42,Female,3,341.46,Regular,4.85,0.4856619890176937,Gen X / Boomers,0.7916666666666666,2.26,Female - Gen X / Boomers,High Drain,Normal,39.805900413829924,Low Risk
+531,Xiaomi Mi 11,Android,589,11.8,2629,86,2479,43,Female,5,222.8,Addicted,6.85,0.9429440852034995,Gen X / Boomers,0.8319209039548022,10.15,Female - Gen X / Boomers,High Drain,Extreme,95.1776798825257,High Risk
+532,OnePlus 9,Android,339,7.9,1987,66,1191,47,Male,4,251.52,Heavy,5.14,0.599396074484147,Gen X / Boomers,0.7151898734177216,5.21,Male - Gen X / Boomers,High Drain,Normal,60.64250433853958,Medium Risk
+533,iPhone 12,iOS,431,6.4,2206,66,1200,23,Female,4,344.69,Heavy,6.53,0.543970988213962,Gen Z,1.1223958333333333,4.22,Female - Gen Z,High Drain,Normal,55.75063409424643,Medium Risk
+534,Xiaomi Mi 11,Android,190,4.7,1276,57,915,22,Female,3,271.49,Regular,3.33,0.7170846394984326,Gen Z,0.6737588652482269,2.68,Female - Gen Z,Low Drain,Normal,43.932585769590176,Medium Risk
+535,OnePlus 9,Android,389,6.1,2087,67,1383,30,Male,4,342.13,Heavy,5.81,0.6626736942980355,Millennials,1.062841530054645,4.09,Male - Millennials,High Drain,Normal,57.252302763315974,Medium Risk
+536,Samsung Galaxy S21,Android,139,3.3,937,24,573,25,Female,2,283.94,Casual,5.79,0.6115261472785486,Millennials,0.7020202020202021,0.79,Female - Millennials,Low Drain,Normal,25.156988386063276,Low Risk
+537,Samsung Galaxy S21,Android,289,5.9,1528,48,915,30,Male,3,258.98,Regular,6.02,0.5988219895287958,Millennials,0.8163841807909603,2.83,Male - Millennials,High Drain,Normal,45.20531304231745,Medium Risk
+538,Samsung Galaxy S21,Android,593,11.1,2672,82,2258,34,Female,5,240.72,Addicted,7.23,0.8450598802395209,Millennials,0.8903903903903904,9.1,Female - Millennials,High Drain,Normal,88.97703911360298,High Risk
+539,Google Pixel 5,Android,576,9.5,2638,98,2281,38,Female,5,277.68,Addicted,5.88,0.8646702047005307,Millennials,1.0105263157894737,9.31,Female - Millennials,High Drain,Normal,88.768522226672,High Risk
+540,OnePlus 9,Android,592,9.4,2867,95,1701,27,Female,5,305.0,Addicted,6.23,0.5933031042901988,Millennials,1.049645390070922,8.93,Female - Millennials,High Drain,Normal,80.55773594980643,High Risk
+541,iPhone 12,iOS,567,10.5,2817,89,2194,52,Male,5,268.29,Addicted,6.37,0.7788427405040823,Gen X / Boomers,0.8999999999999999,9.35,Male - Gen X / Boomers,High Drain,Normal,88.32932852756642,High Risk
+542,iPhone 12,iOS,170,2.5,740,21,537,25,Female,2,296.0,Casual,8.1,0.7256756756756757,Millennials,1.1333333333333333,0.52,Female - Millennials,Low Drain,Normal,21.14871178747831,Low Risk
+543,Google Pixel 5,Android,242,5.4,1307,48,642,28,Male,3,242.04,Regular,5.04,0.4912012241775057,Millennials,0.7469135802469135,2.59,Male - Millennials,Low Drain,Normal,40.258710452543056,Medium Risk
+544,Samsung Galaxy S21,Android,275,5.5,1616,48,656,55,Male,3,293.82,Regular,5.73,0.40594059405940597,Gen X / Boomers,0.8333333333333333,2.64,Male - Gen X / Boomers,High Drain,Normal,40.760245628087034,Medium Risk
+545,Google Pixel 5,Android,544,9.7,2633,97,1727,28,Female,5,271.44,Addicted,5.61,0.6559058108621344,Millennials,0.9347079037800687,9.41,Female - Millennials,High Drain,Normal,82.47617140568681,High Risk
+546,OnePlus 9,Android,50,2.0,362,17,182,34,Female,1,181.0,Basic,2.94,0.5027624309392266,Millennials,0.4166666666666667,0.34,Female - Millennials,Low Drain,Normal,14.004805766920303,Low Risk
+547,OnePlus 9,Android,236,4.6,1750,45,971,21,Female,3,380.43,Regular,5.24,0.5548571428571428,Gen Z,0.855072463768116,2.07,Female - Gen Z,High Drain,Normal,40.63569616873582,Medium Risk
+548,iPhone 12,iOS,139,2.6,658,33,358,58,Female,2,253.08,Casual,4.21,0.5440729483282675,Gen X / Boomers,0.8910256410256411,0.86,Female - Gen X / Boomers,Low Drain,Normal,22.967828060339073,Low Risk
+549,Google Pixel 5,Android,383,6.6,2155,74,1360,45,Male,4,326.52,Heavy,5.18,0.6310904872389791,Gen X / Boomers,0.9671717171717172,4.88,Male - Gen X / Boomers,High Drain,Normal,60.76384995327726,Medium Risk
+550,Samsung Galaxy S21,Android,172,4.0,1047,32,508,21,Female,2,261.75,Casual,5.38,0.48519579751671443,Gen Z,0.7166666666666667,1.28,Female - Gen Z,Low Drain,Normal,29.133627019089573,Low Risk
+551,Xiaomi Mi 11,Android,455,6.2,1984,72,1287,42,Male,4,320.0,Heavy,6.32,0.6486895161290323,Gen X / Boomers,1.2231182795698925,4.46,Male - Gen X / Boomers,High Drain,Normal,57.94740355092778,Medium Risk
+552,Samsung Galaxy S21,Android,157,2.5,1110,30,373,37,Female,2,444.0,Casual,5.23,0.33603603603603605,Millennials,1.0466666666666666,0.75,Female - Millennials,Low Drain,Normal,21.905620077426246,Low Risk
+553,iPhone 12,iOS,173,3.8,605,23,583,32,Male,2,159.21,Casual,7.52,0.9636363636363636,Millennials,0.7587719298245614,0.87,Male - Millennials,Low Drain,Normal,26.64076892270725,Low Risk
+554,Samsung Galaxy S21,Android,405,7.3,2082,75,1162,37,Female,4,285.21,Heavy,5.4,0.5581171950048031,Millennials,0.9246575342465754,5.48,Female - Millennials,High Drain,Normal,61.02135896409024,Medium Risk
+555,iPhone 12,iOS,387,6.6,2168,61,1246,19,Female,4,328.48,Heavy,6.34,0.5747232472324724,Gen Z,0.9772727272727274,4.03,Female - Gen Z,High Drain,Normal,55.45481244159658,Medium Risk
+556,Xiaomi Mi 11,Android,201,4.9,1633,41,972,32,Female,3,333.27,Regular,4.9,0.5952235150030618,Millennials,0.6836734693877551,2.01,Female - Millennials,High Drain,Normal,40.43558937391536,Medium Risk
+557,iPhone 12,iOS,142,3.5,625,25,370,40,Female,2,178.57,Casual,5.68,0.592,Millennials,0.6761904761904762,0.88,Female - Millennials,Low Drain,Normal,23.687758643705784,Low Risk
+558,Samsung Galaxy S21,Android,198,4.2,1392,43,640,27,Male,3,331.43,Regular,4.6,0.45977011494252873,Millennials,0.7857142857142856,1.81,Male - Millennials,Low Drain,Normal,34.71953010279002,Low Risk
+559,Google Pixel 5,Android,361,7.6,2037,65,1056,55,Male,4,268.03,Heavy,5.55,0.5184094256259205,Gen X / Boomers,0.7916666666666667,4.94,Male - Gen X / Boomers,High Drain,Normal,57.717527699906555,Medium Risk
+560,OnePlus 9,Android,553,11.6,2914,81,1860,47,Male,5,251.21,Addicted,6.83,0.6382978723404256,Gen X / Boomers,0.7945402298850575,9.4,Male - Gen X / Boomers,High Drain,Extreme,85.55893739153652,High Risk
+561,Samsung Galaxy S21,Android,408,6.2,2245,69,1103,38,Female,4,362.1,Heavy,5.91,0.4913140311804009,Millennials,1.096774193548387,4.28,Female - Millennials,High Drain,Normal,54.82765985849686,Medium Risk
+562,Xiaomi Mi 11,Android,121,2.1,1188,21,578,18,Male,2,565.71,Casual,5.76,0.48653198653198654,Gen Z,0.9603174603174602,0.44,Male - Gen Z,Low Drain,Normal,20.307969563476174,Low Risk
+563,Google Pixel 5,Android,71,1.4,508,15,265,33,Female,1,362.86,Basic,4.73,0.5216535433070866,Millennials,0.8452380952380953,0.21,Female - Millennials,Low Drain,Normal,12.395941796822854,Low Risk
+564,iPhone 12,iOS,46,1.6,440,10,265,31,Male,1,275.0,Basic,4.6,0.6022727272727273,Millennials,0.4791666666666667,0.16,Male - Millennials,Low Drain,Normal,11.547456948338006,Low Risk
+565,Xiaomi Mi 11,Android,290,4.4,1272,55,910,44,Male,3,289.09,Regular,5.27,0.7154088050314465,Gen X / Boomers,1.0984848484848484,2.42,Male - Gen X / Boomers,Low Drain,Normal,42.26645307702577,Medium Risk
+566,Samsung Galaxy S21,Android,60,1.3,462,15,296,40,Male,1,355.38,Basic,4.0,0.6406926406926406,Millennials,0.7692307692307692,0.2,Male - Millennials,Low Drain,Normal,12.435055399813109,Low Risk
+567,Google Pixel 5,Android,116,3.9,1132,26,498,35,Female,2,290.26,Casual,4.46,0.43992932862190814,Millennials,0.49572649572649574,1.01,Female - Millennials,Low Drain,Normal,26.861967694566815,Low Risk
+568,OnePlus 9,Android,86,1.7,312,16,227,32,Male,1,183.53,Basic,5.38,0.7275641025641025,Millennials,0.8431372549019608,0.27,Male - Millennials,Low Drain,Normal,13.242424242424242,Low Risk
+569,Google Pixel 5,Android,291,5.3,1537,43,700,49,Female,3,290.0,Regular,6.77,0.4554326610279766,Gen X / Boomers,0.9150943396226415,2.28,Female - Gen X / Boomers,High Drain,Normal,39.10706180750233,Low Risk
+570,Google Pixel 5,Android,404,6.6,2181,77,1327,18,Male,4,330.45,Heavy,5.25,0.6084364970197157,Gen Z,1.0202020202020203,5.08,Male - Gen Z,High Drain,Normal,61.27646509144306,Medium Risk
+571,OnePlus 9,Android,441,7.1,1928,74,1421,57,Male,4,271.55,Heavy,5.96,0.7370331950207469,Gen X / Boomers,1.0352112676056338,5.25,Male - Gen X / Boomers,High Drain,Normal,63.16339607529035,Medium Risk
+572,Google Pixel 5,Android,444,6.1,2229,73,1194,25,Female,4,365.41,Heavy,6.08,0.5356662180349933,Millennials,1.213114754098361,4.45,Female - Millennials,High Drain,Normal,56.79975971165399,Medium Risk
+573,OnePlus 9,Android,211,5.9,1757,42,864,56,Female,3,297.8,Regular,5.02,0.491747296528173,Gen X / Boomers,0.596045197740113,2.48,Female - Gen X / Boomers,High Drain,Normal,42.774395941796826,Medium Risk
+574,Samsung Galaxy S21,Android,537,9.1,2858,86,2158,22,Male,5,314.07,Addicted,6.24,0.7550734779566131,Gen Z,0.9835164835164835,7.83,Male - Gen Z,High Drain,Normal,82.32105192898145,High Risk
+575,Xiaomi Mi 11,Android,519,10.9,2571,93,2163,47,Female,5,235.87,Addicted,5.58,0.8413068844807468,Gen X / Boomers,0.7935779816513762,10.14,Female - Gen X / Boomers,High Drain,Normal,90.50233613669738,High Risk
+576,Samsung Galaxy S21,Android,94,3.5,606,30,446,49,Male,2,173.14,Casual,3.13,0.735973597359736,Gen X / Boomers,0.44761904761904764,1.05,Male - Gen X / Boomers,Low Drain,Normal,26.116005873715125,Low Risk
+577,Google Pixel 5,Android,554,10.3,2776,83,1606,34,Female,5,269.51,Addicted,6.67,0.5785302593659942,Millennials,0.8964401294498381,8.55,Female - Millennials,High Drain,Normal,78.78000266987051,High Risk
+578,iPhone 12,iOS,381,7.5,2216,66,1291,37,Female,4,295.47,Heavy,5.77,0.5825812274368231,Millennials,0.8466666666666666,4.95,Female - Millennials,High Drain,Normal,60.510612735282336,Medium Risk
+579,OnePlus 9,Android,257,6.0,1715,49,916,40,Female,3,285.83,Regular,5.24,0.5341107871720117,Millennials,0.7138888888888889,2.94,Female - Millennials,High Drain,Normal,45.853691095981844,Medium Risk
+580,Samsung Galaxy S21,Android,47,1.1,532,18,122,36,Male,1,483.64,Basic,2.61,0.22932330827067668,Millennials,0.712121212121212,0.2,Male - Millennials,Low Drain,Normal,10.586971031904953,Low Risk
+581,iPhone 12,iOS,527,10.0,2430,82,1737,27,Female,5,243.0,Addicted,6.43,0.7148148148148148,Millennials,0.8783333333333333,8.2,Female - Millennials,High Drain,Normal,79.05086103323988,High Risk
+582,Samsung Galaxy S21,Android,148,2.7,625,34,416,27,Male,2,231.48,Casual,4.35,0.6656,Millennials,0.9135802469135802,0.92,Male - Millennials,Low Drain,Normal,24.301027900146842,Low Risk
+583,iPhone 12,iOS,191,5.7,1414,53,991,19,Female,3,248.07,Regular,3.6,0.7008486562942009,Gen Z,0.5584795321637427,3.02,Female - Gen Z,Low Drain,Normal,46.966893605660125,Medium Risk
+584,Google Pixel 5,Android,71,1.9,571,10,117,43,Female,1,300.53,Basic,7.1,0.20490367775831875,Gen X / Boomers,0.6228070175438597,0.19,Female - Gen X / Boomers,Low Drain,Normal,10.769323187825389,Low Risk
+585,OnePlus 9,Android,73,1.3,538,19,175,30,Female,1,413.85,Basic,3.84,0.3252788104089219,Millennials,0.9358974358974358,0.25,Female - Millennials,Low Drain,Normal,12.193432118542251,Low Risk
+586,OnePlus 9,Android,149,3.1,1191,28,563,29,Male,2,384.19,Casual,5.32,0.4727120067170445,Millennials,0.8010752688172043,0.87,Male - Millennials,Low Drain,Normal,25.582298758510213,Low Risk
+587,Xiaomi Mi 11,Android,197,4.4,1665,44,608,43,Female,3,378.41,Regular,4.48,0.3651651651651652,Gen X / Boomers,0.7462121212121211,1.94,Female - Gen X / Boomers,High Drain,Normal,35.30476571886264,Low Risk
+588,Samsung Galaxy S21,Android,328,6.1,1975,72,1101,24,Male,4,323.77,Heavy,4.56,0.5574683544303798,Gen Z,0.8961748633879782,4.39,Male - Gen Z,High Drain,Normal,55.37938859965292,Medium Risk
+589,OnePlus 9,Android,424,7.5,1995,75,1228,36,Male,4,266.0,Heavy,5.65,0.6155388471177945,Millennials,0.9422222222222222,5.62,Male - Millennials,High Drain,Normal,62.480977172607126,Medium Risk
+590,Samsung Galaxy S21,Android,111,3.6,627,26,464,39,Female,2,174.17,Casual,4.27,0.7400318979266348,Millennials,0.513888888888889,0.94,Female - Millennials,Low Drain,Normal,25.453477506340942,Low Risk
+591,Samsung Galaxy S21,Android,159,3.7,630,33,575,30,Male,2,170.27,Casual,4.82,0.9126984126984127,Millennials,0.7162162162162161,1.22,Male - Millennials,Low Drain,Normal,29.241623281270858,Low Risk
+592,Google Pixel 5,Android,580,11.5,2767,84,2341,36,Female,5,240.61,Addicted,6.9,0.8460426454644019,Millennials,0.8405797101449275,9.66,Female - Millennials,High Drain,Extreme,91.91362968896009,High Risk
+593,Samsung Galaxy S21,Android,379,7.7,1809,64,1050,22,Female,4,234.94,Heavy,5.92,0.5804311774461028,Gen Z,0.8203463203463203,4.93,Female - Gen Z,High Drain,Normal,57.675744226405016,Medium Risk
+594,Samsung Galaxy S21,Android,217,4.2,1500,42,677,26,Female,3,357.14,Regular,5.17,0.4513333333333333,Millennials,0.861111111111111,1.76,Female - Millennials,Low Drain,Normal,34.86103323988787,Low Risk
+595,Xiaomi Mi 11,Android,447,6.3,1959,63,1441,48,Male,4,310.95,Heavy,7.1,0.7355793772332823,Gen X / Boomers,1.1825396825396826,3.97,Male - Gen X / Boomers,High Drain,Normal,57.40368442130557,Medium Risk
+596,OnePlus 9,Android,512,10.5,2538,82,1694,41,Male,5,241.71,Addicted,6.24,0.6674546887312844,Gen X / Boomers,0.8126984126984127,8.61,Male - Gen X / Boomers,High Drain,Normal,80.20090775597383,High Risk
+597,Xiaomi Mi 11,Android,511,10.8,2529,91,2387,21,Male,5,234.17,Addicted,5.62,0.9438513246342428,Gen Z,0.7885802469135803,9.83,Male - Gen Z,High Drain,Normal,92.25417167267388,High Risk
+598,OnePlus 9,Android,140,2.5,825,31,347,59,Male,2,330.0,Casual,4.52,0.4206060606060606,Gen X / Boomers,0.9333333333333333,0.78,Male - Gen X / Boomers,Low Drain,Normal,21.896275530636764,Low Risk
+599,Samsung Galaxy S21,Android,114,3.0,1131,31,596,28,Male,2,377.0,Casual,3.68,0.5269672855879752,Millennials,0.6333333333333333,0.93,Male - Millennials,Low Drain,Normal,26.554532105192898,Low Risk
+600,Samsung Galaxy S21,Android,192,4.3,1382,42,905,47,Female,3,321.4,Regular,4.57,0.6548480463096961,Gen X / Boomers,0.744186046511628,1.81,Female - Gen X / Boomers,Low Drain,Normal,37.93365371779469,Low Risk
+601,iPhone 12,iOS,325,6.0,2244,70,1296,30,Female,4,374.0,Heavy,4.64,0.5775401069518716,Millennials,0.9027777777777778,4.2,Female - Millennials,High Drain,Normal,56.782806033907356,Medium Risk
+602,OnePlus 9,Android,83,1.2,545,15,284,44,Male,1,454.17,Basic,5.53,0.5211009174311927,Gen X / Boomers,1.152777777777778,0.18,Male - Gen X / Boomers,Low Drain,Normal,11.957549058870644,Low Risk
+603,OnePlus 9,Android,122,3.0,922,32,373,43,Male,2,307.33,Casual,3.81,0.40455531453362253,Gen X / Boomers,0.6777777777777777,0.96,Male - Gen X / Boomers,Low Drain,Normal,24.178347350153516,Low Risk
+604,OnePlus 9,Android,138,2.1,660,22,424,41,Female,2,314.29,Casual,6.27,0.6424242424242425,Gen X / Boomers,1.0952380952380951,0.46,Female - Gen X / Boomers,Low Drain,Normal,18.760779602189295,Low Risk
+605,OnePlus 9,Android,182,5.3,1278,42,885,54,Female,3,241.13,Regular,4.33,0.6924882629107981,Gen X / Boomers,0.5723270440251572,2.23,Female - Gen X / Boomers,Low Drain,Normal,41.0266987051128,Medium Risk
+606,OnePlus 9,Android,425,6.0,1928,72,1150,53,Female,4,321.33,Heavy,5.9,0.5964730290456431,Gen X / Boomers,1.1805555555555556,4.32,Female - Gen X / Boomers,High Drain,Normal,55.63476171405687,Medium Risk
+607,OnePlus 9,Android,580,10.4,2496,81,2441,37,Female,5,240.0,Addicted,7.16,0.9779647435897436,Millennials,0.9294871794871794,8.42,Female - Millennials,High Drain,Normal,88.5393138432786,High Risk
+608,Xiaomi Mi 11,Android,203,4.0,1323,56,787,21,Male,3,330.75,Regular,3.62,0.5948601662887377,Gen Z,0.8458333333333333,2.24,Male - Gen Z,Low Drain,Normal,39.75837671872914,Low Risk
+609,Xiaomi Mi 11,Android,258,4.9,1596,56,937,40,Female,3,325.71,Regular,4.61,0.5870927318295739,Millennials,0.8775510204081631,2.74,Female - Millennials,High Drain,Normal,44.56053931384328,Medium Risk
+610,iPhone 12,iOS,551,8.5,2927,92,1901,51,Male,5,344.35,Addicted,5.99,0.6494704475572258,Gen X / Boomers,1.080392156862745,7.82,Male - Gen X / Boomers,High Drain,Normal,79.0515285008677,High Risk
+611,iPhone 12,iOS,507,9.6,2606,95,1543,48,Male,5,271.46,Addicted,5.34,0.5920951650038373,Gen X / Boomers,0.8802083333333333,9.12,Male - Gen X / Boomers,High Drain,Normal,79.32612468295287,High Risk
+612,Xiaomi Mi 11,Android,57,1.3,489,16,131,37,Male,1,376.15,Basic,3.56,0.26789366053169733,Millennials,0.7307692307692307,0.21,Male - Millennials,Low Drain,Normal,10.755706848217862,Low Risk
+613,Xiaomi Mi 11,Android,553,10.2,2911,82,2441,44,Male,5,285.39,Addicted,6.74,0.8385434558570938,Gen X / Boomers,0.9035947712418302,8.36,Male - Gen X / Boomers,High Drain,Normal,88.17567747964223,High Risk
+614,Google Pixel 5,Android,49,1.1,395,16,153,46,Female,1,359.09,Basic,3.06,0.38734177215189874,Gen X / Boomers,0.7424242424242423,0.18,Female - Gen X / Boomers,Low Drain,Normal,10.353357362167936,Low Risk
+615,Samsung Galaxy S21,Android,106,4.0,1158,23,493,18,Male,2,289.5,Casual,4.61,0.42573402417962003,Gen Z,0.44166666666666665,0.92,Male - Gen Z,Low Drain,Normal,26.226138032305432,Low Risk
+616,Google Pixel 5,Android,119,3.7,608,36,461,52,Male,2,164.32,Casual,3.31,0.7582236842105263,Gen X / Boomers,0.536036036036036,1.33,Male - Gen X / Boomers,Low Drain,Normal,28.781070618075024,Low Risk
+617,OnePlus 9,Android,288,5.4,1476,49,767,36,Female,3,273.33,Regular,5.88,0.5196476964769647,Millennials,0.8888888888888888,2.65,Female - Millennials,Low Drain,Normal,42.06354291816847,Medium Risk
+618,Google Pixel 5,Android,225,5.6,1388,55,965,36,Female,3,247.86,Regular,4.09,0.6952449567723343,Millennials,0.6696428571428572,3.08,Female - Millennials,Low Drain,Normal,46.92724602856761,Medium Risk
+619,OnePlus 9,Android,342,7.0,1826,71,1077,26,Female,4,260.86,Heavy,4.82,0.5898138006571741,Millennials,0.8142857142857143,4.97,Female - Millennials,High Drain,Normal,57.788012281404356,Medium Risk
+620,Samsung Galaxy S21,Android,292,4.2,1407,54,867,59,Male,3,335.0,Regular,5.41,0.6162046908315565,Gen X / Boomers,1.1587301587301586,2.27,Male - Gen X / Boomers,Low Drain,Normal,40.78013616339608,Medium Risk
+621,iPhone 12,iOS,218,5.0,1475,46,972,59,Female,3,295.0,Regular,4.74,0.6589830508474577,Gen X / Boomers,0.7266666666666667,2.3,Female - Gen X / Boomers,Low Drain,Normal,42.284074222400214,Medium Risk
+622,Google Pixel 5,Android,64,1.8,351,15,274,56,Male,1,195.0,Basic,4.27,0.7806267806267806,Gen X / Boomers,0.5925925925925926,0.27,Male - Gen X / Boomers,Low Drain,Normal,13.837404885863037,Low Risk
+623,Xiaomi Mi 11,Android,453,7.4,2363,65,1046,41,Female,4,319.32,Heavy,6.97,0.44265763859500634,Gen X / Boomers,1.0202702702702702,4.81,Female - Gen X / Boomers,High Drain,Normal,56.93071686023228,Medium Risk
+624,OnePlus 9,Android,42,1.8,417,15,284,21,Male,1,231.67,Basic,2.8,0.6810551558752997,Gen Z,0.38888888888888884,0.27,Male - Gen Z,Low Drain,Normal,13.957549058870647,Low Risk
+625,Samsung Galaxy S21,Android,36,1.5,310,15,272,45,Male,1,206.67,Basic,2.4,0.8774193548387097,Gen X / Boomers,0.39999999999999997,0.22,Male - Gen X / Boomers,Low Drain,Normal,12.813376051261514,Low Risk
+626,OnePlus 9,Android,55,1.8,328,12,196,31,Female,1,182.22,Basic,4.58,0.5975609756097561,Millennials,0.5092592592592592,0.22,Female - Millennials,Low Drain,Normal,11.991189427312776,Low Risk
+627,iPhone 12,iOS,210,5.0,1614,53,679,55,Female,3,322.8,Regular,3.96,0.42069392812887235,Gen X / Boomers,0.7,2.65,Female - Gen X / Boomers,High Drain,Normal,40.88506207448939,Medium Risk
+628,iPhone 12,iOS,227,5.2,1446,46,920,59,Male,3,278.08,Regular,4.93,0.636237897648686,Gen X / Boomers,0.7275641025641025,2.39,Male - Gen X / Boomers,Low Drain,Normal,42.32599118942731,Medium Risk
+629,Xiaomi Mi 11,Android,47,1.2,437,18,234,55,Male,1,364.17,Basic,2.61,0.5354691075514875,Gen X / Boomers,0.6527777777777778,0.22,Male - Gen X / Boomers,Low Drain,Normal,12.265919102923508,Low Risk
+630,iPhone 12,iOS,461,6.3,1988,62,1004,21,Male,4,315.56,Heavy,7.44,0.5050301810865191,Gen Z,1.2195767195767198,3.91,Male - Gen Z,High Drain,Normal,51.85035375784275,Medium Risk
+631,Google Pixel 5,Android,94,3.1,1078,38,489,25,Male,2,347.74,Casual,2.47,0.4536178107606679,Millennials,0.5053763440860215,1.18,Male - Millennials,Low Drain,Normal,27.723534908556935,Low Risk
+632,Samsung Galaxy S21,Android,216,5.1,1483,54,977,45,Female,3,290.78,Regular,4.0,0.6587997302764667,Gen X / Boomers,0.7058823529411765,2.75,Female - Gen X / Boomers,Low Drain,Normal,45.10172206647978,Medium Risk
+633,iPhone 12,iOS,496,10.2,2587,84,1921,56,Female,5,253.63,Addicted,5.9,0.7425589485890993,Gen X / Boomers,0.8104575163398694,8.57,Female - Gen X / Boomers,High Drain,Normal,82.53424108930717,High Risk
+634,OnePlus 9,Android,138,3.2,1142,31,366,29,Female,2,356.88,Casual,4.45,0.3204903677758319,Millennials,0.7187499999999999,0.99,Female - Millennials,Low Drain,Normal,24.457882792684554,Low Risk
+635,iPhone 12,iOS,318,6.6,2055,67,1253,43,Male,4,311.36,Heavy,4.75,0.6097323600973236,Gen X / Boomers,0.8030303030303031,4.42,Male - Gen X / Boomers,High Drain,Normal,57.357095180883725,Medium Risk
+636,Samsung Galaxy S21,Android,96,3.4,1198,39,401,48,Female,2,352.35,Casual,2.46,0.3347245409015025,Gen X / Boomers,0.4705882352941177,1.33,Female - Gen X / Boomers,Low Drain,Normal,27.969296489120275,Low Risk
+637,OnePlus 9,Android,510,10.7,2433,90,1729,47,Male,5,227.38,Addicted,5.67,0.7106452938758734,Gen X / Boomers,0.7943925233644861,9.63,Male - Gen X / Boomers,High Drain,Normal,83.71232145240955,High Risk
+638,Xiaomi Mi 11,Android,83,1.1,546,10,289,32,Female,1,496.36,Basic,8.3,0.5293040293040293,Millennials,1.2575757575757573,0.11,Female - Millennials,Low Drain,Normal,10.1691362968896,Low Risk
+639,Google Pixel 5,Android,417,6.2,2074,63,1135,35,Female,4,334.52,Heavy,6.62,0.54725168756027,Millennials,1.1209677419354838,3.91,Female - Millennials,High Drain,Normal,53.39393939393939,Medium Risk
+640,Google Pixel 5,Android,538,9.8,2778,91,2080,35,Female,5,283.47,Addicted,5.91,0.7487401007919366,Millennials,0.9149659863945577,8.92,Female - Millennials,High Drain,Normal,85.23241222800695,High Risk
+641,Samsung Galaxy S21,Android,63,1.8,321,11,271,42,Male,1,178.33,Basic,5.73,0.8442367601246106,Gen X / Boomers,0.5833333333333334,0.2,Male - Gen X / Boomers,Low Drain,Normal,12.589240421839541,Low Risk
+642,OnePlus 9,Android,50,1.4,443,16,255,26,Female,1,316.43,Basic,3.12,0.5756207674943566,Millennials,0.5952380952380953,0.22,Female - Millennials,Low Drain,Normal,12.578827926845548,Low Risk
+643,Google Pixel 5,Android,502,8.2,2597,90,1553,27,Male,5,316.71,Addicted,5.58,0.5979976896418945,Millennials,1.0203252032520327,7.38,Male - Millennials,High Drain,Normal,73.2644506741423,High Risk
+644,OnePlus 9,Android,105,3.3,723,35,566,46,Male,2,219.09,Casual,3.0,0.7828492392807745,Gen X / Boomers,0.5303030303030303,1.16,Male - Gen X / Boomers,Low Drain,Normal,28.40622079829128,Low Risk
+645,Google Pixel 5,Android,186,4.8,1494,53,949,20,Female,3,311.25,Regular,3.51,0.6352074966532798,Gen Z,0.6458333333333334,2.54,Female - Gen Z,Low Drain,Normal,43.46228807902817,Medium Risk
+646,Xiaomi Mi 11,Android,174,2.9,1197,23,345,20,Female,2,412.76,Casual,7.57,0.2882205513784461,Gen Z,1.0,0.67,Female - Gen Z,Low Drain,Normal,20.78133760512615,Low Risk
+647,Samsung Galaxy S21,Android,89,1.3,314,16,201,58,Female,1,241.54,Basic,5.56,0.6401273885350318,Gen X / Boomers,1.141025641025641,0.21,Female - Gen X / Boomers,Low Drain,Normal,11.596716059271127,Low Risk
+648,iPhone 12,iOS,66,1.5,565,17,283,42,Female,1,376.67,Basic,3.88,0.5008849557522124,Gen X / Boomers,0.7333333333333334,0.26,Female - Gen X / Boomers,Low Drain,Normal,13.551595247630491,Low Risk
+649,iPhone 12,iOS,389,6.3,2294,76,1334,53,Male,4,364.13,Heavy,5.12,0.5815170008718396,Gen X / Boomers,1.029100529100529,4.79,Male - Gen X / Boomers,High Drain,Normal,60.05753570951809,Medium Risk
+650,Xiaomi Mi 11,Android,186,5.4,1627,58,790,31,Female,3,301.3,Regular,3.21,0.4855562384757222,Millennials,0.5740740740740741,3.13,Female - Millennials,High Drain,Normal,45.06714724335869,Medium Risk
+651,Google Pixel 5,Android,149,2.0,1041,39,356,49,Male,2,520.5,Casual,3.82,0.34197886647454373,Gen X / Boomers,1.2416666666666667,0.78,Male - Gen X / Boomers,Low Drain,Normal,22.76198104391937,Low Risk
+652,iPhone 12,iOS,69,1.7,519,10,167,51,Female,1,305.29,Basic,6.9,0.3217726396917148,Gen X / Boomers,0.676470588235294,0.17,Female - Gen X / Boomers,Low Drain,Normal,10.70337738619677,Low Risk
+653,Xiaomi Mi 11,Android,206,5.2,1632,47,694,30,Male,3,313.85,Regular,4.38,0.4252450980392157,Millennials,0.6602564102564102,2.44,Male - Millennials,High Drain,Normal,39.91376318248565,Low Risk
+654,Samsung Galaxy S21,Android,49,1.2,365,19,144,29,Male,1,304.17,Basic,2.58,0.39452054794520547,Millennials,0.6805555555555556,0.23,Male - Millennials,Low Drain,Normal,11.487651848885328,Low Risk
+655,Google Pixel 5,Android,594,10.5,2839,91,1647,56,Male,5,270.38,Addicted,6.53,0.5801338499471645,Gen X / Boomers,0.9428571428571428,9.56,Male - Gen X / Boomers,High Drain,Normal,82.3635028701108,High Risk
+656,Google Pixel 5,Android,104,3.7,1028,29,493,39,Male,2,277.84,Casual,3.59,0.4795719844357977,Millennials,0.46846846846846846,1.07,Male - Millennials,Low Drain,Normal,27.04431985048725,Low Risk
+657,Google Pixel 5,Android,262,5.6,1489,59,628,54,Female,3,265.89,Regular,4.44,0.42175957018132976,Gen X / Boomers,0.7797619047619048,3.3,Female - Gen X / Boomers,Low Drain,Normal,44.09050861033239,Medium Risk
+658,Xiaomi Mi 11,Android,278,5.3,1368,56,894,40,Female,3,258.11,Regular,4.96,0.6535087719298246,Millennials,0.8742138364779876,2.97,Female - Millennials,Low Drain,Normal,45.37725270324389,Medium Risk
+659,Xiaomi Mi 11,Android,463,6.8,2358,68,1236,43,Female,4,346.76,Heavy,6.81,0.5241730279898219,Gen X / Boomers,1.1348039215686274,4.62,Female - Gen X / Boomers,High Drain,Normal,58.122547056467766,Medium Risk
+660,Xiaomi Mi 11,Android,505,9.6,2464,91,2375,35,Male,5,256.67,Addicted,5.55,0.9638798701298701,Millennials,0.876736111111111,8.74,Male - Millennials,High Drain,Normal,88.10999866506475,High Risk
+661,Google Pixel 5,Android,50,1.5,387,12,146,59,Male,1,258.0,Basic,4.17,0.3772609819121447,Gen X / Boomers,0.5555555555555556,0.18,Male - Gen X / Boomers,Low Drain,Normal,10.39046856227473,Low Risk
+662,Xiaomi Mi 11,Android,138,3.1,947,29,545,48,Male,2,305.48,Casual,4.76,0.5755015839493136,Gen X / Boomers,0.7419354838709676,0.9,Male - Gen X / Boomers,Low Drain,Normal,25.66906955012682,Low Risk
+663,Xiaomi Mi 11,Android,130,3.2,1189,37,448,45,Male,2,371.56,Casual,3.51,0.3767872161480236,Gen X / Boomers,0.6770833333333333,1.18,Male - Gen X / Boomers,Low Drain,Normal,27.261246829528766,Low Risk
+664,Google Pixel 5,Android,469,6.4,1858,78,1297,55,Female,4,290.31,Heavy,6.01,0.6980624327233584,Gen X / Boomers,1.2213541666666665,4.99,Female - Gen X / Boomers,High Drain,Normal,60.552396208783875,Medium Risk
+665,Xiaomi Mi 11,Android,555,10.3,2568,83,2003,52,Male,5,249.32,Addicted,6.69,0.7799844236760125,Gen X / Boomers,0.8980582524271844,8.55,Male - Gen X / Boomers,High Drain,Normal,83.54972633827259,High Risk
+666,iPhone 12,iOS,198,5.4,1544,53,635,53,Male,3,285.93,Regular,3.74,0.4112694300518135,Gen X / Boomers,0.611111111111111,2.86,Male - Gen X / Boomers,High Drain,Normal,41.68976104658924,Medium Risk
+667,Samsung Galaxy S21,Android,529,11.4,2891,82,1845,46,Male,5,253.6,Addicted,6.45,0.638187478381183,Gen X / Boomers,0.7733918128654971,9.35,Male - Gen X / Boomers,High Drain,Normal,85.01508476838873,High Risk
+668,Samsung Galaxy S21,Android,205,5.5,1699,49,729,36,Male,3,308.91,Regular,4.18,0.4290759270158917,Millennials,0.6212121212121212,2.7,Male - Millennials,High Drain,Normal,41.940328394072885,Medium Risk
+669,iPhone 12,iOS,170,2.4,1039,38,334,23,Male,2,432.92,Casual,4.47,0.32146294513955725,Gen Z,1.1805555555555556,0.91,Male - Gen Z,Low Drain,Normal,23.527966893605658,Low Risk
+670,Samsung Galaxy S21,Android,160,3.2,648,31,339,27,Female,2,202.5,Casual,5.16,0.5231481481481481,Millennials,0.8333333333333333,0.99,Female - Millennials,Low Drain,Normal,24.13349352556401,Low Risk
+671,iPhone 12,iOS,81,1.6,387,13,224,48,Male,1,241.88,Basic,6.23,0.5788113695090439,Gen X / Boomers,0.84375,0.21,Male - Gen X / Boomers,Low Drain,Normal,11.963956748097717,Low Risk
+672,Google Pixel 5,Android,468,7.3,1937,64,1209,22,Male,4,265.34,Heavy,7.31,0.6241610738255033,Gen Z,1.0684931506849316,4.67,Male - Gen Z,High Drain,Normal,58.25270324389267,Medium Risk
+673,Xiaomi Mi 11,Android,500,11.2,2925,84,2438,27,Male,5,261.16,Addicted,5.95,0.8335042735042735,Millennials,0.7440476190476192,9.41,Male - Millennials,High Drain,Normal,92.07902816713388,High Risk
+674,Google Pixel 5,Android,37,1.6,490,18,216,52,Male,1,306.25,Basic,2.06,0.44081632653061226,Gen X / Boomers,0.3854166666666667,0.29,Male - Gen X / Boomers,Low Drain,Normal,13.382992924843144,Low Risk
+675,Xiaomi Mi 11,Android,522,11.4,2776,93,1768,27,Female,5,243.51,Addicted,5.61,0.6368876080691642,Millennials,0.763157894736842,10.6,Female - Millennials,High Drain,Normal,87.42330796956348,High Risk
+676,Xiaomi Mi 11,Android,81,1.5,545,17,159,40,Male,1,363.33,Basic,4.76,0.29174311926605506,Millennials,0.9,0.26,Male - Millennials,Low Drain,Normal,12.061807502336137,Low Risk
+677,OnePlus 9,Android,141,3.8,689,38,576,34,Male,2,181.32,Casual,3.71,0.8359941944847605,Millennials,0.618421052631579,1.44,Male - Millennials,Low Drain,Normal,31.102122547056467,Low Risk
+678,Samsung Galaxy S21,Android,115,3.5,706,26,495,52,Female,2,201.71,Casual,4.42,0.7011331444759207,Gen X / Boomers,0.5476190476190477,0.91,Female - Gen X / Boomers,Low Drain,Normal,25.492591109331197,Low Risk
+679,Google Pixel 5,Android,298,4.6,1525,59,814,36,Female,3,331.52,Regular,5.05,0.5337704918032787,Millennials,1.0797101449275364,2.71,Female - Millennials,Low Drain,Normal,42.9918568949406,Medium Risk
+680,iPhone 12,iOS,33,1.8,334,16,113,36,Female,1,185.56,Basic,2.06,0.3383233532934132,Millennials,0.3055555555555556,0.29,Female - Millennials,Low Drain,Normal,12.206114003470832,Low Risk
+681,Google Pixel 5,Android,307,6.1,2105,76,1111,25,Female,4,345.08,Heavy,4.04,0.527790973871734,Millennials,0.8387978142076502,4.64,Female - Millennials,High Drain,Normal,56.711653984781734,Medium Risk
+682,Xiaomi Mi 11,Android,380,7.6,2354,77,1191,30,Male,4,309.74,Heavy,4.94,0.505947323704333,Millennials,0.8333333333333334,5.85,Male - Millennials,High Drain,Normal,62.97583767187291,Medium Risk
+683,Xiaomi Mi 11,Android,190,5.5,1718,58,815,42,Male,3,312.36,Regular,3.28,0.4743888242142026,Gen X / Boomers,0.5757575757575757,3.19,Male - Gen X / Boomers,High Drain,Normal,45.70084100921105,Medium Risk
+684,Samsung Galaxy S21,Android,75,1.6,325,12,225,45,Male,1,203.12,Basic,6.25,0.6923076923076923,Gen X / Boomers,0.78125,0.19,Male - Gen X / Boomers,Low Drain,Normal,11.672940862368176,Low Risk
+685,Google Pixel 5,Android,218,4.0,1221,47,822,25,Male,3,305.25,Regular,4.64,0.6732186732186732,Millennials,0.9083333333333333,1.88,Male - Millennials,Low Drain,Normal,37.45160859698305,Low Risk
+686,Xiaomi Mi 11,Android,412,6.6,1859,67,1393,18,Male,4,281.67,Heavy,6.15,0.7493275954814417,Gen Z,1.0404040404040404,4.42,Male - Gen Z,High Drain,Normal,59.03911360299025,Medium Risk
+687,Google Pixel 5,Android,335,7.7,2037,68,1007,18,Male,4,264.55,Heavy,4.93,0.4943544428080511,Gen Z,0.725108225108225,5.24,Male - Gen Z,High Drain,Normal,58.37124549459351,Medium Risk
+688,OnePlus 9,Android,387,6.3,2098,61,1178,54,Male,4,333.02,Heavy,6.34,0.561487130600572,Gen X / Boomers,1.023809523809524,3.84,Male - Gen X / Boomers,High Drain,Normal,53.63783206514484,Medium Risk
+689,Google Pixel 5,Android,261,4.9,1589,56,824,52,Female,3,324.29,Regular,4.66,0.5185651353052234,Gen X / Boomers,0.8877551020408162,2.74,Female - Gen X / Boomers,High Drain,Normal,43.20291015885729,Medium Risk
+690,Samsung Galaxy S21,Android,541,9.5,2424,98,1550,32,Male,5,255.16,Addicted,5.52,0.6394389438943895,Millennials,0.9491228070175439,9.31,Male - Millennials,High Drain,Normal,79.98598317981578,High Risk
+691,Google Pixel 5,Android,195,5.7,1447,48,679,30,Male,3,253.86,Regular,4.06,0.4692467173462336,Millennials,0.5701754385964912,2.74,Male - Millennials,Low Drain,Normal,41.70324389267121,Medium Risk
+692,iPhone 12,iOS,178,4.0,856,37,569,51,Female,2,214.0,Casual,4.81,0.6647196261682243,Gen X / Boomers,0.7416666666666667,1.48,Female - Gen X / Boomers,Low Drain,Normal,31.381657989587502,Low Risk
+693,Xiaomi Mi 11,Android,378,6.7,1898,78,1455,48,Female,4,283.28,Heavy,4.85,0.7665964172813488,Gen X / Boomers,0.9402985074626865,5.23,Female - Gen X / Boomers,High Drain,Normal,63.450674142304095,Medium Risk
+694,Xiaomi Mi 11,Android,505,8.6,2792,82,1709,31,Male,5,324.65,Addicted,6.16,0.6121060171919771,Millennials,0.9786821705426356,7.05,Male - Millennials,High Drain,Normal,74.04779068215191,High Risk
+695,Samsung Galaxy S21,Android,564,9.7,2422,83,1985,34,Female,5,249.69,Addicted,6.8,0.8195706028075971,Millennials,0.9690721649484537,8.05,Female - Millennials,High Drain,Normal,81.33346682685888,High Risk
+696,iPhone 12,iOS,92,3.9,1082,26,381,22,Male,2,277.44,Casual,3.54,0.3521256931608133,Gen Z,0.3931623931623932,1.01,Male - Gen Z,Low Drain,Normal,25.456280870377785,Low Risk
+697,Xiaomi Mi 11,Android,316,6.8,1965,68,1201,59,Male,4,288.97,Heavy,4.65,0.6111959287531806,Gen X / Boomers,0.7745098039215687,4.62,Male - Gen X / Boomers,High Drain,Normal,57.70204245094112,Medium Risk
+698,Google Pixel 5,Android,99,3.1,942,22,457,50,Female,2,303.87,Casual,4.5,0.4851380042462845,Gen X / Boomers,0.532258064516129,0.68,Female - Gen X / Boomers,Low Drain,Normal,22.49058870644774,Low Risk
+699,Samsung Galaxy S21,Android,62,1.7,431,13,224,44,Male,1,253.53,Basic,4.77,0.5197215777262181,Gen X / Boomers,0.607843137254902,0.22,Male - Gen X / Boomers,Low Drain,Normal,12.29729008143105,Low Risk
+700,OnePlus 9,Android,212,5.4,1306,49,828,23,Female,3,241.85,Regular,4.33,0.6339969372128637,Gen Z,0.6543209876543209,2.65,Female - Gen Z,Low Drain,Normal,42.796422373514886,Medium Risk
