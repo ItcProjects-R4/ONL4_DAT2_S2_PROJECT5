@@ -207,8 +207,10 @@ From raw CSV files to an interactive **Streamlit web app** and a full **Power BI
 │
 ├── 📋 Documentation.pdf                 # 📄 Project Documentation PDF
 │
-├── 🐍 app.py                            # ⭐ Main Streamlit application
-└── 📖 README.md                         # Project documentation (you are here)
+├── 📂 full_project_streamlit_analysis/
+│   └── 🐍 app.py            # ⭐ Main Streamlit application
+│
+└── 📖 README.md             # Project documentation (you are here)
 ```
 
 ---
@@ -248,7 +250,7 @@ source venv/bin/activate
 
 **Step 3 — Install Python dependencies**
 ```bash
-pip install -r requirements.txt
+pip install streamlit pandas numpy plotly scikit-learn openpyxl
 ```
 
 **Step 4 — Run the Streamlit App**
@@ -283,7 +285,7 @@ plotly>=5.15.0
 openpyxl>=3.1.0
 ```
 
-> Install all at once: `pip install -r requirements.txt`
+> Install all at once: `pip install streamlit pandas numpy plotly scikit-learn openpyxl`
 
 ---
 
@@ -327,9 +329,6 @@ openpyxl>=3.1.0
 | `app.py` | Core Streamlit application — renders all interactive visualizations, filters, and analysis pages |
 | `data/raw/` | Original datasets downloaded from public repositories (NASA GISS, World Bank, FAOSTAT, etc.) |
 | `data/cleaned/` | Fully processed datasets after null handling, type casting, outlier treatment, and standardization |
-| `notebooks/water_resources_cleaning.ipynb` | Data sourcing strategy, API/CSV ingestion, and initial structure inspection |
-| `notebooks/crops_cleaning.ipynb` | Complete preprocessing pipeline — missing values, duplicates, unit normalization, merging logic |
-| `notebooks/climate_analysis_cleaning.ipynb` | Temperature anomaly detection, trend regression, regional comparison and heatmaps |
 | `dashboard/ClimateScope.pbix` | Power BI file with star-schema data model, DAX measures, and 4 interactive report pages |
 | `Documentation.pdf` | Full project documentation PDF including methodology, findings, and team info |
 
