@@ -13,10 +13,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Track-Data%20Analysis-0A84FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Initiative-DEPI%20%7C%20رواد%20مصر-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQEfdY03CncXDg/company-logo_200_200/company-logo_200_200/0/1734533671961/itc_collage_logo?e=2147483647&v=beta&t=JopGTm60sVQj-1H1DniitX5I45VUp5m7NXvki0zi4XE" height="100px"/>
+<img src="https://meobserver.org/wp-content/uploads/2025/03/20250203T101527926.png" height="100px"/>
+
 
 <br/><br/>
 
