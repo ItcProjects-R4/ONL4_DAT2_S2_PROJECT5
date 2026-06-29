@@ -9,7 +9,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
 <br/>
 
@@ -98,7 +98,7 @@ From raw CSV files to an interactive **Streamlit web app** and a full **Power BI
 | **Numerical Analysis** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) NumPy | Array operations, statistical calculations |
 | **Static Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) Matplotlib | Trend lines, subplots, and publication-quality charts |
 | **Statistical Viz** | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) Seaborn | Heatmaps, distribution plots, correlation matrices |
-| **Development Env** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) Jupyter Notebook | Interactive EDA and prototyping environment |
+| **Development Env** | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) Google Colab | Cloud-based interactive EDA and prototyping environment |
 | **BI Dashboard** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) Power BI | Business intelligence dashboard & data model |
 | **Web Application** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) Streamlit | Final interactive web application deployment |
 
@@ -187,7 +187,7 @@ From raw CSV files to an interactive **Streamlit web app** and a full **Power BI
 │       ├── water_resources_cleaned.csv
 │       └── crops_cleaned.csv
 │
-├── 📂 notebooks/                        # 📓 Jupyter analysis notebooks
+├── 📂 notebooks/                        # 📓 Python cleaning notebooks
 │   ├── water_resources_cleaning.ipynb
 │   ├── crops_cleaning.ipynb
 │   ├── climate_analysis_cleaning.ipynb
