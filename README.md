@@ -182,8 +182,8 @@ From raw CSV files to an interactive **Streamlit web app** and a full **Power BI
 │   │   └── crops.csv
 │   │
 │   └── 📂 cleaned/                      # 🟢 Post-processing clean datasets
-│       ├── temperatures_clean.csv
-│       ├── emissions_cleaned.csv
+│       ├── temperatures_clean.pbix
+│       ├── emissions_cleaned.zip
 │       ├── water_resources_cleaned.csv
 │       └── crops_cleaned.csv
 │
