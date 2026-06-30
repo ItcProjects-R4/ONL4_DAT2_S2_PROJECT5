@@ -203,7 +203,7 @@ From raw CSV files to an interactive **Streamlit web app** and a full **Power BI
 │   ├── Crops&Nutrients.png
 │
 ├── 📂 presentation/
-│   └── ClimateScope_DEPI.pdf            # 📄 Project Presentation
+│   └── presentation.pptx            # 📄 Project Presentation
 │
 ├── 📋 Documentation.pdf                 # 📄 Project Documentation PDF
 │
