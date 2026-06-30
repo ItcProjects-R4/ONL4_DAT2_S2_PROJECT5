@@ -382,7 +382,7 @@ openpyxl>=3.1.0
 
 <br/>
 
-[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Full%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000)](YOUR_VIDEO_LINK_HERE)
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Full%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000)](https://drive.google.com/file/d/1htH8hYoZvUuS0oJPLB1BalACRqEWzzYM/view?usp=drive_link)
 
 <br/>
 
@@ -390,7 +390,7 @@ openpyxl>=3.1.0
 
 <br/>
 
-📎 Direct link → [YOUR_VIDEO_LINK_HERE](YOUR_VIDEO_LINK_HERE)
+📎 Direct link → [https://drive.google.com/file/d/1htH8hYoZvUuS0oJPLB1BalACRqEWzzYM/view?usp=drive_link](https://drive.google.com/file/d/1htH8hYoZvUuS0oJPLB1BalACRqEWzzYM/view?usp=drive_link)
 
 </div>
 
