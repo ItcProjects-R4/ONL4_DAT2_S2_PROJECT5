@@ -294,27 +294,27 @@ openpyxl>=3.1.0
 <div align="center">
 
 ### 🏠 Dashboard Overview
-![Dashboard Overview](screenshots/Temperatures&Water.png)
+![Dashboard Overview](ClimateScope/screenshots/Temperatures&Water.png)
 
 ---
 
 ### 🌡️ Global Temperature Trends
-![Temperature](screenshots/Cities_Temperatures.png)
+![Temperature](ClimateScope/screenshots/Cities_Temperatures.png)
 
 ---
 
 ### 🏭 Greenhouse Gas Emissions
-![Emissions](screenshots/Greenhouse_Gases.png)
+![Emissions](ClimateScope/screenshots/Greenhouse_Gases.png)
 
 ---
 
 ### 🌧️ World Disasters Analysis
-![Rainfall](screenshots/Natural_Disasters.png)
+![Rainfall](ClimateScope/screenshots/Natural_Disasters.png)
 
 ---
 
 ### 🌾 Crops & Nutrients Correlation
-![Rainfall](screenshots/Crops&Nutrients.png)
+![Rainfall](ClimateScope/screenshots/Crops&Nutrients.png)
 
 ---
 
